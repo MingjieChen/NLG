@@ -12,7 +12,7 @@ from MLP import MLP_Encoder
 from LSTM import LSTM_decoder
 #import nltk
 from bleu import sentence_bleu,SmoothingFunction
-
+import logging
 os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
 f = open("raw_data.pickle","rb")
 config = pickle.load(f)
@@ -27,7 +27,7 @@ batch_size = 32
 num_words = len(config.words)
 
 sys_config = system_config()
-max_epoch = 100
+max_epoch = 1
 
 
 
@@ -140,13 +140,27 @@ def evaluate(test_generations,extal_reference,del_map):
     bleu_score = bleu_score/len(test_generations)
     return bleu_score
 
-
-
+log_file = "train.log"
+logger = logging.getLogger(log_file)
+logger.setLevel(logging.DEBUG)
+fh = logging.FileHandler(log_file)
+fh.setLevel(logging.DEBUG)
+ch = logging.StreamHandler()
+ch.setLevel(logging.INFO)
+formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
+ch.setFormatter(formatter)
+fh.setFormatter(formatter)
+logger.addHandler(ch)
+logger.addHandler(fh)
+logger.info("vectorize train data")
 train_vecotors, train_reference,train_extral_reference ,train_map, sequence_length = vectorize(config.train_instances)
+logger.info("vectorize dev data")
 valid_vectors,valid_reference,valid_extral_reference,valid_map,valid_sequence_length = vectorize(config.dev_instances)
+logger.info("initial encoder")
 encoder = MLP_Encoder()
-
+logger.info("initial decoder")
 decoder = LSTM_decoder(sequence_length, num_words, index2word,encoder.memory,encoder.mlp_out)
+logger.info("start training")
 
 
 
@@ -166,9 +180,11 @@ with tf.Session() as sess:
 
 
             train_loss,gen = decoder.train(sess, ref, mask, batch_len, vectors, encoder)
-            if n%200==0:
+            if n%2==0:
                 print("epoch :{}, train loss :{}".format(i,train_loss))
                 print("bleu score :{}".format(evaluate(gen,batch_ref,batch_map)))
+                logger.info("epoch :{}, train loss :{}".format(i,train_loss))
+                logger.info("bleu score :{}".format(evaluate(gen,batch_ref,batch_map)))
 
 
         B = []
@@ -182,6 +198,7 @@ with tf.Session() as sess:
             B.append(b)
             L.append(test_loss)
         print("epoch {} valid bleu score {} valid loss {} ".format(i,np.mean(B),np.mean(L)))
+        logger.info("epoch {} valid bleu score {} valid loss {} ".format(i,np.mean(B),np.mean(L)))
 
 
 

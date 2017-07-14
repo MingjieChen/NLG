@@ -92,7 +92,7 @@ class LSTM_decoder:
         self.ref = tf.one_hot(self.x,self.num_words,1.0,0.0)
         #self.loss =-tf.reduce_sum(tf.reduce_sum(tf.log(self.gen_prob)*self.ref,axis=-1)*self.mask)/(tf.cast(self.batch_len,dtype=tf.float32)*tf.cast(batch_size,dtype=tf.float32))
         self.loss = -tf.reduce_mean(tf.reduce_sum(tf.reduce_sum(tf.log(self.gen_prob) * self.ref, axis=-1) * self.mask,axis=-1)/tf.reduce_sum(self.mask,axis=-1))
-        self.opt = tf.train.AdamOptimizer(learning_rate=0.5e-5)
+        self.opt = tf.train.AdamOptimizer(learning_rate=0.5e-6)
         grads_vars = self.opt.compute_gradients(self.loss)
         capped_grads_vars = [(tf.clip_by_value(g, -5, 5), v)
                              for g, v in grads_vars]  # gradient capping
