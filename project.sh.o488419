@@ -1,0 +1,625 @@
+create lists
+create lists
+Write lists...Training data size: 2000
+Validation data size: 100
+create naive alignments
+done
+Write LMs...Create training data...almost...Write Training Data...Initial training...Write initial classifiers...Evaluate argument generation 
+the phoenix is located in riverside . it is average priced with a customer rating of 3 out of 5 .
+in riverside , the phoenix has a 3 out of 5 rating .
+
+clowns coffee shop in the riverside area , near clare hall , has chinese food and has a low customer rating . it is for poor joint wide .
+clowns performances occur near clare hall at the coffee shop and also at a low rated chinese take out near the riverside .
+
+the eagle is a coffee shop in the riverside area , near burger king there english food . it has a high customer rating and is not kids friendly is price range of £20 - 25 .
+the eagle is a coffee shop located in the riverside area near burger king that features highly rated english food for 20 - 25 pounds and is not kid friendly .
+
+there is a cheap indian food go to taste of cambridge coffee shop near crowne plaza hotel in the city centre . it is family - friendly .
+for chinese , head to taste of cambridge . it ' s a family friendly coffee shop located in the city centre near the crowne plaza hotel .
+
+the wrestlers is located near the sorrento and is kid friendly restaurant native foods offers venue atmosphere out of 5 rating .
+near the sorrento is the wrestlers which is child friendly and has a customer rating of 3 out of 5 .
+
+there is a cheap indian food go to clowns coffee shop is located near clare hall in the city centre . it has a customer rating of 5 out of 5 .
+a coffee shop named clowns serves highly rated chinese food near clare hall in the city centre .
+
+the eagle is located near burger king in the city centre . it serves high quality indian coffee shop that has a price range of £20 - 25 and is kid friendly .
+the eagle is a coffee shop providing chinese food in the £20 - 25 price range . it is located in the city centre . it is near burger king . its customer rating is high .
+
+browns cambridge is a coffee shop in the riverside area , near crowne plaza hotel , has chinese to , is kid friendly and it rating 1 out of 5 .
+riverside has a 1 out of 5 rated coffee shop found near crowne plaza hotel called browns cambridge that serves chinese food and is kid friendly .
+
+the punter is located near café sicilia is a coffee shop offers chinese food for more than £30 . it has a high customer rating and is child friendly .
+the punter is a coffee shop providing chinese food in the more than £30 price range . it is near café sicilia . its customer rating is high .
+
+there is a chinese food restaurant fitzbillies coffee shop in the city centre . it is in the moderate price range ,  , has a 1 out of 5 stars , and is not child friendly .
+the fitzbillies is non children - friendly coffee shop that also serves chinese food . while it is located in the city centre and its prices are decent it has a low customer rating , 1 out of 5 .
+
+the eagle near café brazil in riverside is children friendly and has a 3 out of 5 rating .
+the eagle , a child - friendly restaurant , is riverside and has a 3 out of 5 rating . it is located near café brazil .
+
+the punter is a family friendly restaurant is not far located in the riverside area .
+the punter has a low customer rating is in riverside and is family friendly .
+
+cotto coffee shop in the riverside area , near the portland arms which serves english food , has a very priced food under £20 with a low customer rating .
+cotto is a cheap coffee shop with one - star located near the portland arms .
+
+cotto is a coffee shop in the city centre area near the portland arms serves chinese food with a price range of £20 - 25 . it has a high customer rating .
+cotto is a coffee shop that offers chinese food . it is in the £ - 25 price range with a high customer rating it is located in the city centre near the portland arms .
+
+cocum is a coffee shop that is family - friendly . its prices are provides and is cheap place that serves english food . it has a customer rating of 5 out of 5 .
+the cocum is a family friendly coffee shop , serving affordable english food , coffee , and a 5 out of 5 customer rating .
+
+to get away from family friendly restaurant the punter located near the city centre with a low customer rating .
+the punter has a low customer rating . it ' s family - friendly and is located in the city centre .
+
+cocum is a coffee shop that provides it is kid - friendly , serves prices are moderate price range , and has a customer rating of 1 out of 5 .
+cocum is an average priced coffee shop that is family friendly .
+
+the wrestlers coffee shop in the riverside area near raja indian cuisine serves english food priced food with a price range of less than £20 and is family - friendly .
+the wrestlers is a family friendly coffee shop located near raja indian cuisine in the city centre which offers cheap food .
+
+to get family friendly restaurant the punter located in the city centre with a customer rating of 5 out of 5 .
+there is a family - friendly restaurant the punter located in city centre . customer rating 5 out of 5 .
+
+clowns coffee shop in the riverside area , near clare hall offering english food and has a high customer rating .
+clowns is a highly rated coffee shop , serving english food , near clare hall in the riverside area .
+
+there is a coffee shop named clowns in the city centre near clare hall . it serves english food and has a low customer rating .
+located in the city centre near clare hall is a coffee shop called clowns . this coffee shop serves english food and has a low customer rating .
+
+the punter is close by café sicilia with a cheap english coffee shop with , is family friendly and has an average customer rating .
+the punter is a coffee shop which serves english food . it is located near café sicilia , and has an average customer rating . it is also in the cheap price range , and is family friendly .
+
+cocum is a coffee shop that is family - friendly . its prices are provides and is cheap place that serves english food . it has a customer rating of 5 out of 5 .
+cocum is a coffee shop on a campus offering breakfast foods .
+
+alimentum is a family friendly and located in the riverside .
+alimentum , located in the riverside area is kid friendly .
+
+wildwood is a coffee shop near ranch . their english food has a high customer rating , the price range is £20 - 25 .
+wildwood is a lovely coffee shop near ranch . it serves great english food and lovely coffee . the customers ratings are very high and the price range is average .
+
+the coffee shop wildwood is a high is near ranch that serves english food and has a customer rating of 1 out of 5 .
+a high end , english grub and coffee shop - wildwood . good ratings , near ranch .
+
+the cricketers is a coffee shop that isn ' t family friendly english cuisine it is located near the portland arms . it has a customer rating of 1 out of 5 .
+the cricketers coffee shop , near the portland arms , has english food . it is kids friendly and is rated 1 out of 5 .
+
+browns cambridge near crowne plaza hotel in riverside . chinese food coffee shop average customer rating and is family friendly .
+in the riverside near the crowne plaza hotel is a family friendly chinese coffee shop . it has an average customer rating and is named browns cambridge .
+
+the wrestlers coffee shop is located in the city centre area near to raja indian cuisine which serves chinese food priced with a price range of less than £20 . it is not family - friendly .
+there is a mid - price ranged coffee shop called the wrestlers that serves chinese food located near raja indian cuisine in the city center .
+
+midsummer house is near the bakers with a average customer rating .
+an average restaurant would be midsummer house near the bakers .
+
+aromi is a coffee shop in the riverside area serving chinese food , is kid friendly and it has a customer rating of 3 out of 5 .
+there is a coffee shop that serves chinese food called aromi , in the riverside area , it is not child friendly and has a customer rating of 3 out of 5 .
+
+aromi is a chinese coffee shop in it is located near the river to the north of child friendly .
+there is a low customer rating coffee shop that provides chinese food located in riverside . aromi is family friendly .
+
+the eagle is close by burger king in the riverside area . a cheap coffee shop that also serves english food . it has an average customer rating . it is family friendly .
+family friendly and inexpensive coffee shop the eagle , is near to the river and burger king .
+
+there is a coffee shop named fitzbillies . it is not kid - friendly but english restaurant in the city centre that allows with a customer rating of 1 out of 5 and has a moderate price range .
+a moderately priced english coffee shop in the city centre , fitzbillies , is not kid friendly . a 1 out of 5 rating .
+
+the wrestlers is located near raja indian cuisine in the riverside area . a is a £20 - 25 coffee shop that serves chinese food and is very to be it s mention for families .
+the wrestlers is near the riverside and raja indian cuisine . it serves indian food and allows children . it has a average rating .
+
+fitzbillies is a chinese coffee shop in the city centre with a price range of £20 - 25 . it has a high customer rating and is kid friendly .
+fitzbillies coffee shop provides chines food in the city centre . it is children friendly , mid priced and has a high customer rating .
+
+the mill coffee shop in the riverside area , near the sorrento serve chinese food with a high .
+the mill , coffee shop and chinese restaurant is high in price in the riverside near the sorrento .
+
+the wrestlers is located near the sorrento . it has a customer rating of 5 out of 5 customer rating but is not family - friendly .
+the wrestlers is a restaurant located near the sorrento . 5 out of 5 customer rating .
+
+fitzbillies is a coffee shop located in the riverside area . it serves high provides average customer costumer with an average customer rating , that serves english food and is not child friendly .
+in riverside , fitzbillies coffee shop is not family - friendly , has a high price range and average customer rating , and serves english food .
+
+fitzbillies is a coffee shop that is family - friendly , with moderate prices city centre sells chinese food and has a rating 3 out of 5 .
+fitzbillies is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . its customer rating is 3 out of 5 .
+
+the phoenix with a low customer rating in the city centre .
+the phoenix is located in the city centre and has a low customer rating .
+
+the cambridge blue is a coffee shop in the riverside area near burger king with an average customer rating . it is family friendly .
+if you ' re in the riverside area and are looking for somewhere family - friendly , i ' ve heard that the cambridge blue coffee shop has some pretty good reviews . it ' s just by burger king .
+
+clowns coffee shop in the riverside area , near clare hall , has serves english food and has an average customer rating .
+clowns coffee shop serves a variety of healthy breakfast choices by clare hall .
+
+the punter is located near café sicilia is a coffee shop serving english food . it has low it is family friendly and has a price range of less than £20 .
+the punter is a coffee shop located next to café sicilia . it serves cheap food and is family friendly .
+
+the wrestlers is a coffee shop that is family friendly with a moderate price range . it is located in the city centre near raja indian cuisine there serves english food .
+welcome to the wrestlers . we are a coffee shop , our price range is moderate , our food is english we ' re kid friendly located in the city centre by the raja indian cuisine . we have a disclaimer by the door , we wrestle and any blood stains we do not cover .
+
+the mill is located near the sorrento in the riverside area . a price range of more than £30 coffee shop that also serves chinese food .
+near the sorrento there is a chinese coffee shop called the mill that is expensive : more than £30 . located on the riverside you can enjoy a cup of coffee while looking onto a beautiful landscape .
+
+the cambridge blue is a coffee shop in the riverside area near burger king , has 5 out of 5 by our customers to please family friendly .
+in the riverside area you can visit the cambridge blue . a family friendly , customer rated 5 out of 5 coffee shop , located by burger king .
+
+the eagle is a kids friendly restaurant with a customer rating of 1 out of 5 , located in riverside near café brazil .
+the eagle is a family friendly coffee shop near café brazil at riverside that earned a customer rating of 1 out of 5 .
+
+the golden palace is a coffee shop located in city centre . it is rated one star been provides serves - priced range it is about prices providing high customer rating .
+coffee shop the golden palace has a very good reputation , unfortunately , also has a high price . it offers english food .
+
+cotto coffee shop in the riverside area , near the portland arms serves english food . it is a cheap , average customer rating .
+moderate priced coffee shop cotto is located near the portland arms .
+
+aromi is a coffee shop . it thats family friendly north of 1 out of 5 situated in riverside that serves english food .
+aromi is a coffee shop and restaurant that is family restaurant located north of the city center .
+
+the punter is a coffee shop that is family friendly with a moderate price range . it is near café sicilia that serves english food and has a customer rating of 1 out of 5 .
+the punter is a family friendly english coffee shop . it is located near café sicilia .
+
+cocum is a coffee shop that is provides it provides fast foods at a reduced price , prices range chinese food and has a rating of 1 out of 5 .
+cocum is a chinese coffee shop with a moderate price range and a rating of 1 . it is kid - friendly .
+
+the wrestlers is located near the sorrento and is kid friendly restaurant native foods offers venue atmosphere out of 5 rating .
+the wrestlers is a child friendly venue near the sorrento with a 3 out of 5 rating .
+
+the eagle coffee shop in the riverside area near burger king serves chinese food with priced range is less than £20 . it is family friendly , but has a low customer rating .
+there is a low rated , family friendly coffee shop the eagle serving chinese food near burger king .
+
+alimentum near burger king in riverside . it is child friendly and .
+located riverside near burger king , alimentum is children friendly .
+
+browns cambridge coffee shop in the riverside area , near crowne plaza hotel there is an english food , has a low customer rating . it is not opened to all age groups customer ratings and is not child friendly .
+in the riverside , near to crowne plaza hotel is located a coffee shop named browns cambridge that offers english food and it has low customer rating . there is no family area .
+
+cocum is a coffee shop providing chinese food their prices are less than £20 but have a low customer rating , but is not family - friendly .
+there is a low priced coffee shop called cocum that serves chinese food , it is not family friendly and has a low customer rating .
+
+the eagle is a coffee shop that is family - friendly restaurant that serves english food in the city center . it is near burger king . its customer rating is low .
+the eagle is a family - friendly , low price range coffee shop serving english food . it is located in the town centre near burger king and has a low customer rating .
+
+the wrestlers near the sorrento , has average customer rating and is not family - friendly .
+close proximity of the sorrento is non - family - friendly venue the wrestlers ; average customer ratings .
+
+alimentum near burger king in riverside . it is child friendly and .
+alimentum , located near to burger king on the riverside , is a child friendly establishment .
+
+the wrestlers is a chinese coffee shop near raja indian cuisine in the city centre . it is in the moderate price range , and is not kids friendly .
+the wrestlers is a coffee shop near raja indian cuisine in the city city . it is moderately priced and serves chinese food . children are not welcome .
+
+the mill coffee shop in the riverside area , near the sorrento , has a chinese food with a moderate .
+the mill is a coffee shop that offers chinese food . it is moderately priced and is located in the riverside area near the sorrento .
+
+the eagle is a coffee shop that is family - friendly restaurant with a high price range , serves english is near burger king in the city centre . it has an average customer rating .
+the eagle is an english coffee shop in the city center near burger king . the prices are quite high for an averagely rated place but it is child - friendly .
+
+the golden palace is a coffee shop in the riverside area . it serves high prices have costumer average customer rating that serves chinese food .
+the chinese coffee shop , the golden palace , is located in riverside . the price range is high with customer ratings of average .
+
+the mill coffee shop in the riverside area , near the sorrento offering english food priced less than £20 .
+the mill is a coffee shop that sells cheap english food located near the sorrento in riverside .
+
+the golden palace is a coffee shop in the riverside area . it serves high prices have costumer average customer rating that serves chinese food .
+the golden palace is an expensive coffee shop in the riverside area which serves chinese food . it has an average customer rating .
+
+the punter is located near café sicilia is coffee shop offers english food . it has an average customer rating ,  , has a high price range , and is not children friendly .
+the punter is a high priced coffee shop offering english food , found next to café sicilia . it is not child friendly and has average customer ratings .
+
+the punter is a family friendly restaurant is not far located in the riverside area .
+in the riverside area , there is a children - friendly restaurant named the punter . it has a low customer rating .
+
+the cricketers is located near the portland arms is a coffee shop serving chinese food . it has an average customer rating . it is family friendly .
+a chinese coffee shop that is children friendly is located near the portland arms . it is called the cricketers and has an average customer rating .
+
+browns cambridge coffee shop in the riverside area , near crowne plaza hotel serves english food , has a high customer rating and but it is family - friendly .
+the browns cambridge is near crowne plaza hotel . it is a kids friendly coffee shop that serves english food with a high customer rating .
+
+fitzbillies is a chinese coffee shop in the riverside area that has a cheap price range and has a customer rating of 5 out of 5 stars but it is not family - friendly .
+this non kid friendly coffee shop , fitzbillies , is located in riverside . they serve cheap chinese food and have a customer rating of 5 out of 5 .
+
+the coffee shop the eagle has a higher is family friendly english food at moderate prices is near burger king in food it is located in the city centre with a customer rating of 3 out of 5 .
+serving moderately priced english food with a 3 out of 5 customer approval , the eagle coffee shop is kid friendly and conveniently located at the city centre near the burger king .
+
+the wrestlers is a family friendly restaurant serving ok rating is high customer ratings .
+a family friendly place is called the wrestlers . it has poor reviews .
+
+cocum is a coffee shop that is family - friendly , serves prices are a cheap price range , the foods sells has serves english food . it has an average customer rating .
+the coffee shop cocum is a family friendly establishment and has low prices .
+
+fitzbillies is a coffee shop located in the city centre serves chinese food within a price range of £20 - 25 . it has a high customer rating but is not kid - friendly .
+fitzbillies is a coffee shop that offers chinese food in the 20 to 25 pound price range . it has a high customer rating and is located in the city centre . it is not kid - friendly .
+
+cocum is a coffee shop that is family - friendly prices £20 - 25 offering english high customer rating .
+family friendly cocum coffee shop moderate price great reviews .
+
+the punter is a family friendly restaurant off out of 5 situated on the riverside .
+in a riverside location the punter is family friendly with a top customer rating .
+
+the punter is a coffee shop that is family friendly with a high price range , serve english it is located near café sicilia , has a rating of 1 out of 5 .
+the punter is a coffee shop of british food . we are near café sicilia and we are a familiar place . join us .
+
+cotto is a coffee shop in the city centre area near the portland arms provides chinese food in the more than £30 range and a high customer rating .
+cotto is a coffee shop that has chinese food it is located near the portland arms in the center of the city . it has a high customer rating with a price range of more than £30 .
+
+browns cambridge is a coffee shop . it family friendly , has a low customer rating and situated along the riverside near crowne plaza hotel offering for some end english food .
+browns cambridge is a low rated , family friendly coffee shop . it is located near the crown plaza hotel in the city centre . .
+
+fitzbillies is a coffee shop located in riverside , its prices range it for more than 30 pounds chinese food with high customer rating and but it is not child friendly .
+for a night out without the kids , try fitzbillies in the riverside area . it ' s a pricier chinese coffee shop that customers like a lot .
+
+the punter is a family friendly restaurant is not far located in the riverside area .
+riverside restaurant the punter children customer rating very low .
+
+there is a coffee shop called cotto in riverside near the portland arms that has a customer rating of 1 out of 5 . it serves english food in the high price range .
+cotto is a restaurant within walking distance of the portland arms .
+
+the cambridge blue is a coffee shop in the city centre area near to burger king . it does not welcome , is not family - friendly and with an average customer rating .
+the cambridge blue is a coffee shop in the city centre close to burger king . they are not family - friendly and received average customer ratings .
+
+cocum is a coffee shop that provides it is kid - friendly , serves prices are moderate price range , and has a customer rating of 1 out of 5 .
+a one star coffee shop is cocum . they are also average priced .
+
+the wrestlers is a with children friendly and rating is average customer rating .
+the wrestlers is a child friendly venue with an average rating .
+
+the eagle is a coffee shop providing chinese food . it is located near the burger king in the city centre . it is in the high price range , has a 1 out of 5 stars , and is not child friendly .
+the eagle is a coffee shop that serves expensive chinese food . it has a customer rating of 1 out of 5 . it is in the city centre near burger king but it is not children friendly .
+
+aromi is a coffee shop in the riverside area english food , has a high customer rating and but it is easily .
+although children friendly , aromi is a moderately priced five star coffee shop serving english food in the riverside area .
+
+there is a cheap indian food aromi coffee shop in the city centre with a low customer rating . not family - friendly .
+low rate , not family friendly , aromi chinese coffee shop in the city center .
+
+fitzbillies is a coffee shop that is family - friendly restaurant with high prices english it is located in riverside and has an average customer rating .
+fitzbillies coffee shop in the riverside area , serves english food and is child friendly , with a high price range .
+
+the eagle is a coffee shop . it provides fast foods at a reduced price , is located near the river , there burger king a rates a 1 out of 5 and serves english food .
+a family friendly coffee shop called the eagle is located near burger king . it has a low customer rating .
+
+the punter is a café near café sicilia is it is coffee shop english food with high customer rating and is kids friendly . it price range of £20 - 25 .
+near café sicilia there is a mid - priced coffee shop called , the punter , that serves traditional english food .
+
+there is a coffee shop named browns cambridge in the city centre near crowne plaza hotel . it serves english food , is not family - friendly and with a rating of 5 out of 5 stars range .
+browns cambridge serves english food in a coffee shop . rated 5 out of 5 stars . it is near crowne plaza hotel and in the city centre area . it is not family - friendly .
+
+the wrestlers is located near raja indian cuisine in the riverside area . a cheap coffee shop that also serves english food and is family - friendly .
+the wrestlers is in the riverside area near raja indian cuisine . it is a coffee shop serving cheap english food and is great for families .
+
+fitzbillies is a coffee shop . it is not family - friendly , with a low customer rating and the city centre very serving english food for less than £20 .
+fitzbillies is a cheap coffee shop in the city centre . it ' s not family - friendly and it has a low customer rating . its price range is less than 20 pounds .
+
+the mill coffee shop in the riverside area , near the sorrento , has english food with a price range of £20 - 25 .
+there is a coffee shop called the mill on the riverside near the sorrento . they serve english food and their price range is £20 to £25 .
+
+the wrestlers is a with children friendly and rating is average customer rating .
+families are welcome at the wrestlers .
+
+the punter is a coffee shop that is family friendly with a high price range , serve english it is located near café sicilia , has a rating of 1 out of 5 .
+a children friendly coffee shop called the punter is near café sicilia . it ' s expensive , serves english food , and has a very low rating .
+
+cocum is a coffee shop that is family - friendly , serves prices are a cheap price range , the foods sells has serves english food . it has an average customer rating .
+cocum sells english food . his coffee shop is child friendly and his price range is cheap . he receives an average rating .
+
+BLEU: 	0.5277611281913254
+ROUGE: 	0.30308114494238547
+COVERAGE ERROR: 	0.0
+BRC: 	0.6102807577112369
+beta = 1.0 , p = 0.2 , early = 5.0
+Run LOLS...16...done!
+avgContentErrors = 8673
+avgWordErrors = 2565
+Create new classifiers...done!
+Update classifiers...done!
+Averaging classifiers...done!
+Evaluate argument generation 
+the phoenix is located in riverside . it is average priced with a customer rating of 3 out of 5 .
+in riverside , the phoenix has a 3 out of 5 rating .
+
+clowns coffee shop in the riverside area , near clare hall that provides chinese food its customer rating is low .
+clowns performances occur near clare hall at the coffee shop and also at a low rated chinese take out near the riverside .
+
+the eagle is a coffee shop in the riverside area , near burger king there english food . it has a high customer rating and is not kids friendly is price range of £20 - 25 .
+the eagle is a coffee shop located in the riverside area near burger king that features highly rated english food for 20 - 25 pounds and is not kid friendly .
+
+there is a cheap indian food go to taste of cambridge coffee shop near crowne plaza hotel in the city centre . it is family - friendly .
+for chinese , head to taste of cambridge . it ' s a family friendly coffee shop located in the city centre near the crowne plaza hotel .
+
+the wrestlers is located near the sorrento and is kid friendly restaurant native foods children friendly activities atmosphere receives 3 out of 5 rating .
+near the sorrento is the wrestlers which is child friendly and has a customer rating of 3 out of 5 .
+
+there is a cheap indian food go to clowns coffee shop is located near clare hall in the city centre . it has a customer rating of 5 out of 5 .
+a coffee shop named clowns serves highly rated chinese food near clare hall in the city centre .
+
+the eagle is located near burger king in the city centre . it serves high quality indian coffee shop that has a price range of £20 - 25 and is kid friendly .
+the eagle is a coffee shop providing chinese food in the £20 - 25 price range . it is located in the city centre . it is near burger king . its customer rating is high .
+
+browns cambridge is a coffee shop in the riverside area , near crowne plaza hotel , has chinese to and is kid friendly . it has a customer rating of 1 out of 5 .
+riverside has a 1 out of 5 rated coffee shop found near crowne plaza hotel called browns cambridge that serves chinese food and is kid friendly .
+
+the punter is located near café sicilia is a coffee shop offers chinese food for more than £30 . it has a high customer rating and is child friendly .
+the punter is a coffee shop providing chinese food in the more than £30 price range . it is near café sicilia . its customer rating is high .
+
+serving chinese food go to fitzbillies coffee shop in the city centre . it is in the moderate price range ,  , has a 1 out of 5 stars , and is not child friendly .
+the fitzbillies is non children - friendly coffee shop that also serves chinese food . while it is located in the city centre and its prices are decent it has a low customer rating , 1 out of 5 .
+
+the eagle near café brazil in riverside is children friendly and has a 3 out of 5 rating .
+the eagle , a child - friendly restaurant , is riverside and has a 3 out of 5 rating . it is located near café brazil .
+
+the punter is a family friendly restaurant serving ok situated far customer rating .
+the punter has a low customer rating is in riverside and is family friendly .
+
+cotto coffee shop in the riverside area , near the portland arms which serves english food , has a very priced food at less than £20 and has a low customer rating .
+cotto is a cheap coffee shop with one - star located near the portland arms .
+
+cotto is a coffee shop in the city centre area near the portland arms which serves chinese food with a price range of £20 - 25 . it has a high customer rating .
+cotto is a coffee shop that offers chinese food . it is in the £ - 25 price range with a high customer rating it is located in the city centre near the portland arms .
+
+cocum is a coffee shop that is family - friendly . its prices are provides and is cheap place that serves english food . it has a customer rating of 5 out of 5 .
+the cocum is a family friendly coffee shop , serving affordable english food , coffee , and a 5 out of 5 customer rating .
+
+to get away from family friendly restaurant the punter located near the city centre with a low customer rating .
+the punter has a low customer rating . it ' s family - friendly and is located in the city centre .
+
+cocum is a coffee shop that provides a kid - friendly . its prices are serves english food and has a customer rating of 1 out of 5 .
+cocum is an average priced coffee shop that is family friendly .
+
+the wrestlers coffee shop in the riverside area near raja indian cuisine serves english food priced food with a price range of less than £20 and is family - friendly .
+the wrestlers is a family friendly coffee shop located near raja indian cuisine in the city centre which offers cheap food .
+
+to get away from family friendly restaurant the punter located in the city centre with a customer rating of 5 out of 5 .
+there is a family - friendly restaurant the punter located in city centre . customer rating 5 out of 5 .
+
+clowns coffee shop in the riverside area , near clare hall offering english food and has a high customer rating .
+clowns is a highly rated coffee shop , serving english food , near clare hall in the riverside area .
+
+there is a coffee shop named clowns in the city centre near clare hall . it serves english food and has a low customer rating .
+located in the city centre near clare hall is a coffee shop called clowns . this coffee shop serves english food and has a low customer rating .
+
+the punter is located near café sicilia . it is cheap english coffee shop with , is family friendly and has an average customer rating .
+the punter is a coffee shop which serves english food . it is located near café sicilia , and has an average customer rating . it is also in the cheap price range , and is family friendly .
+
+cocum is a coffee shop that is family - friendly . its prices are provides and is cheap place that serves english food . it has a customer rating of 5 out of 5 .
+cocum is a coffee shop on a campus offering breakfast foods .
+
+alimentum is a family friendly restaurant located outside .
+alimentum , located in the riverside area is kid friendly .
+
+wildwood is a coffee shop near ranch . their english food has a high customer rating , the price range is £20 - 25 .
+wildwood is a lovely coffee shop near ranch . it serves great english food and lovely coffee . the customers ratings are very high and the price range is average .
+
+the coffee shop wildwood is a high is near ranch that serves english food and has a customer rating of 1 out of 5 .
+a high end , english grub and coffee shop - wildwood . good ratings , near ranch .
+
+the cricketers is a coffee shop that isn ' t family friendly english cuisine it is located near the portland arms . it has a customer rating of 1 out of 5 .
+the cricketers coffee shop , near the portland arms , has english food . it is kids friendly and is rated 1 out of 5 .
+
+browns cambridge near crowne plaza hotel in riverside . chinese food coffee shop average rated children friendly .
+in the riverside near the crowne plaza hotel is a family friendly chinese coffee shop . it has an average customer rating and is named browns cambridge .
+
+the wrestlers is a coffee shop located in the city centre area near to raja indian cuisine which serves chinese food priced with a price range of less than £20 . it is not family - friendly .
+there is a mid - price ranged coffee shop called the wrestlers that serves chinese food located near raja indian cuisine in the city center .
+
+midsummer house is near the bakers with a average customer rating .
+an average restaurant would be midsummer house near the bakers .
+
+aromi is a coffee shop in the riverside area serving chinese food , is kid friendly and it has a customer rating of 3 out of 5 .
+there is a coffee shop that serves chinese food called aromi , in the riverside area , it is not child friendly and has a customer rating of 3 out of 5 .
+
+aromi is a chinese coffee shop . it receives in riverside with low customer ratings child friendly .
+there is a low customer rating coffee shop that provides chinese food located in riverside . aromi is family friendly .
+
+the eagle is close by the burger king in the riverside area . a cheap coffee shop that also serves english food . it has an average customer rating . it is family friendly .
+family friendly and inexpensive coffee shop the eagle , is near to the river and burger king .
+
+there is a coffee shop isn fitzbillies is not family - friendly english restaurant in the city centre that allows with a customer rating of 1 out of 5 and has a moderate price range .
+a moderately priced english coffee shop in the city centre , fitzbillies , is not kid friendly . a 1 out of 5 rating .
+
+the wrestlers is located near raja indian cuisine in the riverside area . a is a for a moderate price range of £20 - 25 coffee shop that serves chinese food and is very to be it s mention for families .
+the wrestlers is near the riverside and raja indian cuisine . it serves indian food and allows children . it has a average rating .
+
+fitzbillies is a chinese coffee shop in the city centre with a price range of £20 - 25 . it has a high customer rating and is kid friendly .
+fitzbillies coffee shop provides chines food in the city centre . it is children friendly , mid priced and has a high customer rating .
+
+the mill coffee shop in the riverside area , near the sorrento serve sells serves chinese food with a high price range .
+the mill , coffee shop and chinese restaurant is high in price in the riverside near the sorrento .
+
+the wrestlers is located near the sorrento . it has a customer rating of 5 out of 5 customer rating but is not family - friendly .
+the wrestlers is a restaurant located near the sorrento . 5 out of 5 customer rating .
+
+fitzbillies is a coffee shop located in the riverside area . it serves high provides average customer costumer with an average customer rating , that serves english food and is not family - friendly .
+in riverside , fitzbillies coffee shop is not family - friendly , has a high price range and average customer rating , and serves english food .
+
+fitzbillies is a coffee shop that is family - friendly , with moderate prices city centre sells chinese food and has a rating 3 out of 5 .
+fitzbillies is a coffee shop providing chinese food in the moderate price range . it is located in the city centre . its customer rating is 3 out of 5 .
+
+the phoenix with a low customer rating in the city centre .
+the phoenix is located in the city centre and has a low customer rating .
+
+the cambridge blue is a coffee shop in the riverside area near burger king with an average customer rating . it is family friendly .
+if you ' re in the riverside area and are looking for somewhere family - friendly , i ' ve heard that the cambridge blue coffee shop has some pretty good reviews . it ' s just by burger king .
+
+clowns coffee shop in the riverside area , near clare hall , has serves english food and has an average customer rating .
+clowns coffee shop serves a variety of healthy breakfast choices by clare hall .
+
+the punter is located near café sicilia is a coffee shop serving english food . it has low it is family friendly with a price range of less than £20 .
+the punter is a coffee shop located next to café sicilia . it serves cheap food and is family friendly .
+
+the wrestlers is a coffee shop that is family friendly with a moderate price range . it is located in the city centre near raja indian cuisine there serves english food .
+welcome to the wrestlers . we are a coffee shop , our price range is moderate , our food is english we ' re kid friendly located in the city centre by the raja indian cuisine . we have a disclaimer by the door , we wrestle and any blood stains we do not cover .
+
+the mill is located near the sorrento in the riverside area . a price range of more than £30 coffee shop that also serves chinese food .
+near the sorrento there is a chinese coffee shop called the mill that is expensive : more than £30 . located on the riverside you can enjoy a cup of coffee while looking onto a beautiful landscape .
+
+the cambridge blue is a coffee shop in the riverside area near burger king , has 5 out of 5 by our customers to family friendly .
+in the riverside area you can visit the cambridge blue . a family friendly , customer rated 5 out of 5 coffee shop , located by burger king .
+
+the eagle is a kids friendly restaurant with a customer rating of 1 out of 5 , located in riverside near café brazil .
+the eagle is a family friendly coffee shop near café brazil at riverside that earned a customer rating of 1 out of 5 .
+
+the golden palace is a coffee shop located in city centre . it is rated one star been provides serves - priced prices range it is a more expensive venue providing high customer rating .
+coffee shop the golden palace has a very good reputation , unfortunately , also has a high price . it offers english food .
+
+cotto coffee shop in the riverside area , near the portland arms serves english food . it is a cheap , average customer rating .
+moderate priced coffee shop cotto is located near the portland arms .
+
+aromi is a coffee shop . it thats family friendly , has a low customer rating and situated in riverside that serves english food .
+aromi is a coffee shop and restaurant that is family restaurant located north of the city center .
+
+the punter is a coffee shop that is family friendly with a moderate price range . it is near café sicilia that serves english food and has a customer rating of 1 out of 5 .
+the punter is a family friendly english coffee shop . it is located near café sicilia .
+
+cocum is a coffee shop that provides it is kid friendly , moderately priced chinese food and has a rating of 1 out of 5 .
+cocum is a chinese coffee shop with a moderate price range and a rating of 1 . it is kid - friendly .
+
+the wrestlers is located near the sorrento and is kid friendly restaurant native foods children friendly activities atmosphere receives 3 out of 5 rating .
+the wrestlers is a child friendly venue near the sorrento with a 3 out of 5 rating .
+
+the eagle is located near burger king in the riverside area . a is priced for less than £20 coffee shop that also serves chinese food in the low price range , and is family friendly .
+there is a low rated , family friendly coffee shop the eagle serving chinese food near burger king .
+
+alimentum near burger king in riverside . it is child friendly and .
+located riverside near burger king , alimentum is children friendly .
+
+browns cambridge coffee shop in the riverside area , near crowne plaza hotel there is an english food and has a low customer rating . it is not family - friendly .
+in the riverside , near to crowne plaza hotel is located a coffee shop named browns cambridge that offers english food and it has low customer rating . there is no family area .
+
+cocum is a coffee shop providing chinese food . their food prices are less than £20 but have a low customer rating , but is not family - friendly .
+there is a low priced coffee shop called cocum that serves chinese food , it is not family friendly and has a low customer rating .
+
+the eagle is a coffee shop that is family - friendly restaurant english food . it is located near burger king in the city center with a low customer rating .
+the eagle is a family - friendly , low price range coffee shop serving english food . it is located in the town centre near burger king and has a low customer rating .
+
+the wrestlers near the sorrento , has average customer rating and is not family - friendly .
+close proximity of the sorrento is non - family - friendly venue the wrestlers ; average customer ratings .
+
+alimentum near burger king in riverside . it is child friendly and .
+alimentum , located near to burger king on the riverside , is a child friendly establishment .
+
+the wrestlers is a chinese coffee shop near raja indian cuisine in the city centre . it is in the moderate price range , and is not kids friendly .
+the wrestlers is a coffee shop near raja indian cuisine in the city city . it is moderately priced and serves chinese food . children are not welcome .
+
+the mill coffee shop in the riverside area , near the sorrento , has a chinese food with a moderate price range .
+the mill is a coffee shop that offers chinese food . it is moderately priced and is located in the riverside area near the sorrento .
+
+the eagle is a coffee shop that is family - friendly restaurant with a high price range , serves english food , is located near burger king in the city centre . it has an average customer rating .
+the eagle is an english coffee shop in the city center near burger king . the prices are quite high for an averagely rated place but it is child - friendly .
+
+the golden palace is a coffee shop in the riverside area . it serves high prices have costumer average customer rating that serves chinese food .
+the chinese coffee shop , the golden palace , is located in riverside . the price range is high with customer ratings of average .
+
+the mill coffee shop in the riverside area , near the sorrento offering english food with a price range of less than £20 .
+the mill is a coffee shop that sells cheap english food located near the sorrento in riverside .
+
+the golden palace is a coffee shop in the riverside area . it serves high prices have costumer average customer rating that serves chinese food .
+the golden palace is an expensive coffee shop in the riverside area which serves chinese food . it has an average customer rating .
+
+the punter is located near café sicilia is coffee shop offers english food . it has an average customer rating ,  , has a high price range , and is not children friendly .
+the punter is a high priced coffee shop offering english food , found next to café sicilia . it is not child friendly and has average customer ratings .
+
+the punter is a family friendly restaurant serving ok situated far customer rating .
+in the riverside area , there is a children - friendly restaurant named the punter . it has a low customer rating .
+
+the cricketers is located near the portland arms is a coffee shop serving chinese food . it has an average customer rating . it is family friendly .
+a chinese coffee shop that is children friendly is located near the portland arms . it is called the cricketers and has an average customer rating .
+
+browns cambridge coffee shop in the riverside area , near crowne plaza hotel serves english food , has a high customer rating and but it is family - friendly .
+the browns cambridge is near crowne plaza hotel . it is a kids friendly coffee shop that serves english food with a high customer rating .
+
+fitzbillies is a chinese coffee shop in the riverside area that has a cheap price range , with a customer rating of 5 out of 5 stars but it is not family - friendly .
+this non kid friendly coffee shop , fitzbillies , is located in riverside . they serve cheap chinese food and have a customer rating of 5 out of 5 .
+
+the eagle is a coffee shop . it is kid friendly at foods price range in the city centre near burger king . it serves english food and has a customer rating of 3 out of 5 .
+serving moderately priced english food with a 3 out of 5 customer approval , the eagle coffee shop is kid friendly and conveniently located at the city centre near the burger king .
+
+the wrestlers is a family friendly restaurant serving ok rating .
+a family friendly place is called the wrestlers . it has poor reviews .
+
+cocum is a coffee shop that is family - friendly provides serves prices are a cheap price range , the sells foods serves english food . it has an average customer rating .
+the coffee shop cocum is a family friendly establishment and has low prices .
+
+fitzbillies is a coffee shop located in the city centre serves chinese food with a price range of £20 - 25 . it has a high customer rating but is not kid - friendly .
+fitzbillies is a coffee shop that offers chinese food in the 20 to 25 pound price range . it has a high customer rating and is located in the city centre . it is not kid - friendly .
+
+cocum is a coffee shop that is kid friendly with a price range of £20 - 25 offering english high customer rating .
+family friendly cocum coffee shop moderate price great reviews .
+
+the punter is a family friendly restaurant off rated 5 out of 5 situated on the riverside .
+in a riverside location the punter is family friendly with a top customer rating .
+
+the punter is a coffee shop that is also provides a it is not child friendly , with a high price range , serve english it is located near café sicilia , has a rating of 1 out of 5 .
+the punter is a coffee shop of british food . we are near café sicilia and we are a familiar place . join us .
+
+cotto is a coffee shop in the city centre area near the portland arms provides chinese food in the more than £30 range and a high customer rating .
+cotto is a coffee shop that has chinese food it is located near the portland arms in the center of the city . it has a high customer rating with a price range of more than £30 .
+
+browns cambridge is a coffee shop that is family - friendly english that is in riverside near crowne plaza hotel , has a high rating of 5 out of 5 .
+browns cambridge is a low rated , family friendly coffee shop . it is located near the crown plaza hotel in the city centre . .
+
+fitzbillies is a coffee shop located in riverside , its prices range it for more than 30 pounds chinese food with high customer rating and but it is not child friendly .
+for a night out without the kids , try fitzbillies in the riverside area . it ' s a pricier chinese coffee shop that customers like a lot .
+
+the punter is a family friendly restaurant serving ok situated far customer rating .
+riverside restaurant the punter children customer rating very low .
+
+there is a coffee shop called cotto in riverside near the portland arms . it serves english food . it has a high price range and a customer rating of 1 out of 5 .
+cotto is a restaurant within walking distance of the portland arms .
+
+the cambridge blue is a coffee shop in the city centre area near to burger king . it does not welcome , is not family - friendly and with an average customer rating .
+the cambridge blue is a coffee shop in the city centre close to burger king . they are not family - friendly and received average customer ratings .
+
+cocum is a coffee shop that provides a kid - friendly . its prices are serves english food and has a customer rating of 1 out of 5 .
+a one star coffee shop is cocum . they are also average priced .
+
+the wrestlers is a with children friendly and rating is average customer rating .
+the wrestlers is a child friendly venue with an average rating .
+
+the eagle is a coffee shop providing chinese food . it is located near the burger king in the city centre . it is in the high price range , has a 1 out of 5 stars , and is not child friendly .
+the eagle is a coffee shop that serves expensive chinese food . it has a customer rating of 1 out of 5 . it is in the city centre near burger king but it is not children friendly .
+
+aromi is a coffee shop in the riverside area english food and has a high customer rating . this is because it is kid friendly .
+although children friendly , aromi is a moderately priced five star coffee shop serving english food in the riverside area .
+
+there is a cheap indian food aromi coffee shop in the city centre with a low customer rating . not family - friendly .
+low rate , not family friendly , aromi chinese coffee shop in the city center .
+
+fitzbillies is a coffee shop that is family - friendly restaurant with high prices english it is located in riverside . it has an average customer rating .
+fitzbillies coffee shop in the riverside area , serves english food and is child friendly , with a high price range .
+
+the eagle is a coffee shop . it provides fast foods at a reduced price , is located near the river , there burger king a rates a 1 out of 5 and serves english food .
+a family friendly coffee shop called the eagle is located near burger king . it has a low customer rating .
+
+the punter is a café near café sicilia is it coffee shop english food with high customer ratings kids friendly venue price range of £20 - 25 .
+near café sicilia there is a mid - priced coffee shop called , the punter , that serves traditional english food .
+
+there is a coffee shop named browns cambridge in the city centre near crowne plaza hotel . it serves english food , is not family - friendly and with a rating of 5 out of 5 .
+browns cambridge serves english food in a coffee shop . rated 5 out of 5 stars . it is near crowne plaza hotel and in the city centre area . it is not family - friendly .
+
+the wrestlers is located near raja indian cuisine in the riverside area . a cheap coffee shop that also serves english food . it is family friendly .
+the wrestlers is in the riverside area near raja indian cuisine . it is a coffee shop serving cheap english food and is great for families .
+
+fitzbillies is a coffee shop . it is not family - friendly , with a low customer rating , the city centre serving very and it sells english food for less than £20 .
+fitzbillies is a cheap coffee shop in the city centre . it ' s not family - friendly and it has a low customer rating . its price range is less than 20 pounds .
+
+the mill coffee shop in the riverside area , near the sorrento , has english food with a price range of £20 - 25 .
+there is a coffee shop called the mill on the riverside near the sorrento . they serve english food and their price range is £20 to £25 .
+
+the wrestlers is a with children friendly and rating is average customer rating .
+families are welcome at the wrestlers .
+
+the punter is a coffee shop that is also provides a it is not child friendly , with a high price range , serve english it is located near café sicilia , has a rating of 1 out of 5 .
+a children friendly coffee shop called the punter is near café sicilia . it ' s expensive , serves english food , and has a very low rating .
+
+cocum is a coffee shop that is family - friendly provides serves prices are a cheap price range , the sells foods serves english food . it has an average customer rating .
+cocum sells english food . his coffee shop is child friendly and his price range is cheap . he receives an average rating .
+
+BLEU: 	0.5341517076674689
+ROUGE: 	0.30269229283675075
+COVERAGE ERROR: 	0.0
+BRC: 	0.6122813335014066
+beta = 0.8 , p = 0.2 , early = 5.0
+Run LOLS...16...
