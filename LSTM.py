@@ -48,15 +48,16 @@ class LSTM_decoder:
         next_token = self.start_token
         self.num_attention_unit = 256
         self.memory_layer = layers_core.Dense(
-            self.num_attention_unit, name="memory_layer", use_bias=False)
+            self.num_attention_unit, name="memory_layer", use_bias=True,activation=tf.tanh)
+        self.query_layer = layers_core.Dense(
+            self.num_attention_unit, name="query_layer", use_bias=True,activation=tf.tanh)
         self.processed_memory = self.memory_layer(memory)
 
         def _g_recurrence(i, x_t, h_tm1, gen_o, gen_x,next_token):
             h_t = self.g_recurrent_unit(x_t, h_tm1)
             previous_hidden_state, c_prev = tf.unstack(h_t)# hidden_memory_tuple
-            query_layer = layers_core.Dense(
-            self.num_attention_unit, name="query_layer", use_bias=False)
-            query = query_layer(previous_hidden_state)
+
+            query = self.query_layer(previous_hidden_state)
             query = array_ops.expand_dims(query, 1)
             score = math_ops.matmul(query, self.processed_memory, transpose_b=True)
             score = array_ops.squeeze(score, [1])

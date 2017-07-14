@@ -181,7 +181,7 @@ with tf.Session() as sess:
             b = evaluate(test_generation,t_batch_ref,t_map)
             B.append(b)
             L.append(test_loss)
-        print("epoch {} valid bleu score {} valid loss {} ".format(i,np.mean(B,np.mean(L))))
+        print("epoch {} valid bleu score {} valid loss {} ".format(i,np.mean(B),np.mean(L)))
 
 
 
