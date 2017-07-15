@@ -27,7 +27,7 @@ batch_size = 32
 num_words = len(config.words)
 
 sys_config = system_config()
-max_epoch = 1
+max_epoch = 200
 
 
 
@@ -69,9 +69,9 @@ def vectorize(data):
     return input_vecotors, input_reference, input_extra_references,input_delmap,max_length
 
 
-def next_batch(input_vectors, input_reference,input_extra_references ,map,batch_size):
+def next_batch(input_vectors, input_reference,input_extra_references ,map,batch_size,max_len):
 
-    max_len = 0
+    #max_len = 0
 
     index = random.sample(list(np.arange(len(input_vectors))), batch_size)
     batch_vectors = [input_vectors[i] for i in index]
@@ -79,9 +79,9 @@ def next_batch(input_vectors, input_reference,input_extra_references ,map,batch_
     batch_reference = [input_reference[i] for i in index]
     batch_extral_ref = [input_extra_references[i] for i in index]
     batch_map = [map[i] for i in index]
-    for s in batch_reference:
-        if len(s)> max_len:
-            max_len = len(s)
+    #for s in batch_reference:
+        #if len(s)> max_len:
+            #max_len = len(s)
 
 
     for r in batch_reference:
@@ -89,7 +89,8 @@ def next_batch(input_vectors, input_reference,input_extra_references ,map,batch_
         while len(r)< max_len:
             r.append(0)
         if len(r)!=max_len:
-            print(1)
+            print(r)
+            exit(0)
 
     for r in batch_reference:
         mask = []
@@ -145,12 +146,12 @@ logger = logging.getLogger(log_file)
 logger.setLevel(logging.DEBUG)
 fh = logging.FileHandler(log_file)
 fh.setLevel(logging.DEBUG)
-ch = logging.StreamHandler()
-ch.setLevel(logging.INFO)
+#ch = logging.StreamHandler()
+#ch.setLevel(logging.INFO)
 formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
-ch.setFormatter(formatter)
+#ch.setFormatter(formatter)
 fh.setFormatter(formatter)
-logger.addHandler(ch)
+#logger.addHandler(ch)
 logger.addHandler(fh)
 logger.info("vectorize train data")
 train_vecotors, train_reference,train_extral_reference ,train_map, sequence_length = vectorize(config.train_instances)
@@ -173,14 +174,15 @@ with tf.Session() as sess:
     for i in range(max_epoch):
         for n in range(1000):
             vectors, ref, mask, batch_len ,batch_map,batch_ref= next_batch(train_vecotors, train_reference, train_extral_reference, train_map,
-                                                       batch_size)
+                                                       batch_size,sequence_length)
 
 
 
 
 
             train_loss,gen = decoder.train(sess, ref, mask, batch_len, vectors, encoder)
-            if n%2==0:
+
+            if n%200==0:
                 print("epoch :{}, train loss :{}".format(i,train_loss))
                 print("bleu score :{}".format(evaluate(gen,batch_ref,batch_map)))
                 logger.info("epoch :{}, train loss :{}".format(i,train_loss))
@@ -190,7 +192,7 @@ with tf.Session() as sess:
         B = []
         L = []
         for x in range(130):
-            t_vectors,t_ref,t_mask,t_batch_len,t_map,t_batch_ref = next_batch(valid_vectors,valid_reference,valid_extral_reference,valid_map,batch_size)
+            t_vectors,t_ref,t_mask,t_batch_len,t_map,t_batch_ref = next_batch(valid_vectors,valid_reference,valid_extral_reference,valid_map,batch_size,valid_sequence_length)
 
             test_loss,test_generation = decoder.test(sess,t_ref,t_mask,t_batch_len,t_vectors,encoder)
 
