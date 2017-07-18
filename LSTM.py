@@ -18,15 +18,15 @@ class LSTM_decoder:
         self.start_token = tf.constant([start_token] * batch_size,shape=[batch_size], dtype=tf.int32,name="start_tokens")
         self.end_token  =tf.constant([end_token] * batch_size ,shape=[batch_size],dtype= tf.int32,name="end_tokens")
         self.h0 = h0
-        self.h0_stack = tf.stack([self.h0,self.h0])
+        #self.h0_stack = tf.stack([self.h0,self.h0])
         self.index2words = index2words
         self.num_words = num_words
         self.sequence_length = sequence_length
-        self.x = tf.placeholder(tf.int32, [None, None], name="input_x")
+        self.x = tf.placeholder(tf.int32, [batch_size, None], name="input_x")
         self.batch_len = tf.placeholder(tf.int32,[],name="batch_len")
         self.memory = memory
         self.mask = tf.placeholder(tf.float32,[None,None],name="input_mask")
-
+        self.feed_previous = tf.placeholder(tf.bool,[],"feed_previous")
         self.embeddings = tf.Variable(tf.random_normal([self.num_words,embedding_dim]),name="embeddings")
 
         #self.processed_x = tf.transpose(tf.nn.embedding_lookup(self.embeddings, self.x), perm=[1, 0, 2])
@@ -34,8 +34,11 @@ class LSTM_decoder:
         ### reference placeholder
 
 
-        #with tf.device("/cpu:0"):
-            #self.processed_x = tf.transpose(tf.nn.embedding_lookup(self.embeddings, self.x), perm=[1, 0, 2])
+        with tf.device("/cpu:0"):
+            self.processed_x = tf.transpose(tf.nn.embedding_lookup(self.embeddings, self.x), perm=[1, 0, 2])
+        ta_emb_x = tensor_array_ops.TensorArray(
+            dtype=tf.float32, size=self.batch_len, infer_shape=True)
+        ta_emb_x = ta_emb_x.unstack(self.processed_x)
         ### recurrent_unit
         self.g_recurrent_unit = self.create_recurrent_unit()# maps h_tm1 to h_t for generator
         ### outputunit
@@ -65,7 +68,8 @@ class LSTM_decoder:
             expanded_alignments = array_ops.expand_dims(alignments, 1)
             context = math_ops.matmul(expanded_alignments, self.memory)
             context = array_ops.squeeze(context, [1])
-            new_h_t = tf.tanh(tf.concat([previous_hidden_state,context],axis=-1))
+            #new_h_t = tf.tanh(tf.concat([previous_hidden_state,context],axis=-1))
+            new_h_t = tf.tanh(tf.add(previous_hidden_state,context))
             o_t = self.g_output_unit(new_h_t)  # batch x vocab , logits not prob
             prob = tf.nn.softmax(o_t)
 
@@ -73,7 +77,8 @@ class LSTM_decoder:
 
             next_token = tf.cast(tf.reshape(tf.argmax(prob,axis=-1),[batch_size]),tf.int32)
             #next_token = tf.cast(tf.reshape(tf.multinomial(log_prob, 1), [batch_size]), tf.int32)
-            x_tp1 = tf.nn.embedding_lookup(self.embeddings, next_token)  # batch x emb_dim
+
+            x_tp1 = tf.cond(self.feed_previous,lambda :tf.nn.embedding_lookup(self.embeddings, next_token),lambda :ta_emb_x.read(i) ) # batch x emb_dim
             #gen_o = gen_o.write(i, tf.reduce_sum(tf.multiply(tf.one_hot(next_token, self.num_words, 1.0, 0.0),
                                                              #tf.nn.softmax(o_t)), 1))  # [batch_size] , prob
             gen_o = gen_o.write(i,prob)
@@ -86,14 +91,15 @@ class LSTM_decoder:
             #cond=lambda i, _1, _2, _3, _4,_5: math_ops.logical_and(i < self.batch_len,math_ops.reduce_all(math_ops.logical_not(tf.equal(next_token,self.end_token)))) ,
             body=_g_recurrence,
             loop_vars=(tf.constant(0, dtype=tf.int32),
-                       tf.nn.embedding_lookup(self.embeddings,self.start_token), self.h0_stack, gen_o, gen_x,next_token))
+                       tf.nn.embedding_lookup(self.embeddings,self.start_token), self.h0, gen_o, gen_x,next_token))
         self.generations = tf.reshape(self.gen_x.concat(), [batch_size, self.batch_len])
         self.gen_prob = tf.reshape(self.gen_o.concat(),[batch_size,self.batch_len,self.num_words])
         self.ref = tf.one_hot(self.x,self.num_words,1.0,0.0)
-        self.loss =-tf.reduce_sum(tf.reduce_sum(tf.log(self.gen_prob)*self.ref,axis=-1))/(tf.cast(self.batch_len,dtype=tf.float32)*tf.cast(batch_size,dtype=tf.float32))
+        #self.loss =-tf.reduce_sum(tf.reduce_sum(tf.log(self.gen_prob)*self.ref,axis=-1))/(tf.cast(self.batch_len,dtype=tf.float32)*tf.cast(batch_size,dtype=tf.float32))
         #self.loss =-tf.reduce_sum(tf.reduce_sum(tf.log(self.gen_prob)*self.ref,axis=-1)*self.mask)/(tf.cast(self.batch_len,dtype=tf.float32)*tf.cast(batch_size,dtype=tf.float32))
-        #self.loss = -tf.reduce_mean(tf.reduce_sum(tf.reduce_sum(tf.log(self.gen_prob) * self.ref, axis=-1) * self.mask,axis=-1)/tf.reduce_sum(self.mask,axis=-1))
-        self.opt = tf.train.AdamOptimizer(learning_rate=1e-6)
+        self.loss = -tf.reduce_mean(tf.reduce_sum(tf.reduce_sum(tf.log(self.gen_prob) * self.ref, axis=-1) * self.mask,axis=-1)/tf.reduce_sum(self.mask,axis=-1))
+        self.opt = tf.train.AdamOptimizer(learning_rate=1e-5)
+        #self.opt = tf.train.GradientDescentOptimizer(learning_rate = 1e-6)
         grads_vars = self.opt.compute_gradients(self.loss)
         capped_grads_vars = [(tf.clip_by_value(g, -5, 5), v)
                              for g, v in grads_vars]  # gradient capping
@@ -157,7 +163,7 @@ class LSTM_decoder:
         return unit
 
     def create_output_unit(self):
-        self.Wo = tf.Variable(self.init_matrix([hidden_size+sys_config.readin_hidden_size, self.num_words]),name="Wo")
+        self.Wo = tf.Variable(self.init_matrix([hidden_size, self.num_words]),name="Wo")
         self.bo = tf.Variable(self.init_matrix([self.num_words]),name="bo")
 
 
@@ -172,29 +178,14 @@ class LSTM_decoder:
 
     def train(self, sess,x,mask,batch_len,vectors,encoder):
         feed_dict = {self.x:x,self.mask :mask,self.batch_len : batch_len,
-                     encoder.family_friendly_X: [vec["familyfriendly"] for vec in vectors]
-            , encoder.eatType_X: [vec["eattype"] for vec in vectors]
-            , encoder.food_X: [vec["food"] for vec in vectors]
-            , encoder.near_X: [vec["near"] for vec in vectors]
-            , encoder.name_X: [vec["name"] for vec in vectors]
-            , encoder.area_X: [vec["area"] for vec in vectors]
-            , encoder.priceRange_X: [vec["pricerange"] for vec in vectors]
-            , encoder.customer_rating_X: [vec["customer_rating"] for vec in vectors]
-                     }
+                     encoder.x : vectors,self.feed_previous : False}
         loss,_,gen = sess.run([self.loss,self.train_op,self.generations],feed_dict)
         #outputs = sess.run(self.batch_len,feed_dict)
         return loss,gen
 
     def test(self, sess,x,mask,batch_len,vectors,encoder):
         feed_dict = {self.x:x,self.mask :mask,self.batch_len : batch_len,
-                     encoder.family_friendly_X: [vec["familyfriendly"] for vec in vectors]
-            , encoder.eatType_X: [vec["eattype"] for vec in vectors]
-            , encoder.food_X: [vec["food"] for vec in vectors]
-            , encoder.near_X: [vec["near"] for vec in vectors]
-            , encoder.name_X: [vec["name"] for vec in vectors]
-            , encoder.area_X: [vec["area"] for vec in vectors]
-            , encoder.priceRange_X: [vec["pricerange"] for vec in vectors]
-            , encoder.customer_rating_X: [vec["customer_rating"] for vec in vectors]
+                     encoder.x:vectors,self.feed_previous:True
                      }
         loss,generations = sess.run([self.loss,self.generations],feed_dict)
         #outputs = sess.run(self.batch_len,feed_dict)
