@@ -39,8 +39,8 @@ class LSTM_encoder:
                                                                 loop_vars=(tf.constant(0, dtype=tf.int32),
                                                                            tf.nn.embedding_lookup(self.en_embedding,
                                                                                                   self.start_token), self.h0,gen_o ))
-        self.memory = tf.reshape(self.gen_o.concat(),[batch_size,max_en_len,hidden_dim])
-
+        #self.memory = tf.reshape(self.gen_o.concat(),[batch_size,max_en_len,hidden_dim])
+        self.memory = tf.transpose(self.gen_o.stack(),perm=[1, 0, 2])
 
 
 
