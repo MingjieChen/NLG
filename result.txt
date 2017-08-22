@@ -1,0 +1,1123 @@
+/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5 /Users/chenmingjie/Desktop/NLG/dagger.py
+model restored
+alimentum is located in the city centre . it is not family - friendly . 
+0.7598356856515925
+alimentum is a restaurant in the city centre near burger king . it is not family - friendly . 
+0.584887472385593
+alimentum is a family - friendly restaurant in the city centre . 
+0.8512160931922469
+alimentum is a family - friendly restaurant in the city centre near burger king . 
+0.8857000285382948
+alimentum is a restaurant in the riverside area . it is not family - friendly . 
+0.4924790605054523
+alimentum is a restaurant in the riverside area near burger king . it is not family - friendly . 
+0.659109604993135
+alimentum is a family friendly restaurant in the riverside area . 
+0.9146912192286945
+alimentum is a family friendly restaurant near burger king in the riverside area . 
+0.8142441551106129
+aromi is a coffee shop that serves chinese food . it is located in the riverside area and has a customer rating of 1 out of 5 and is family friendly . 
+0.7373548450495855
+aromi is a kid friendly coffee shop that serves chinese food . it is located in the riverside and has a customer rating of 3 out of 5 . 
+0.8450085007772961
+aromi is a coffee shop that serves chinese food . it is located in the city centre . it is not family friendly and has a customer rating of 5 out of 5 . 
+0.8184940299430227
+aromi is a family - friendly coffee shop that serves chinese food . it is located in the city centre and has a customer rating of 5 out of 5 . 
+0.622505967708878
+aromi is a coffee shop that serves chinese food . it is located in the riverside area and has a customer rating of 5 out of 5 and is not family friendly . 
+0.6881530086562293
+aromi is a family friendly coffee shop that serves chinese food . it is located in the riverside and has a customer rating of 5 out of 5 . 
+0.7964109047822965
+aromi is a coffee shop that serves chinese food . it is located in the city centre and has an average customer rating . it is not family - friendly . 
+0.5831310950518168
+aromi is a family - friendly coffee shop that serves chinese food . it is located in the city centre and has an average customer rating . 
+0.9025139799587886
+aromi is a coffee shop that serves chinese food . it is located in the riverside area and has an average customer rating and is not family - friendly . 
+0.6736538830150764
+aromi is a family friendly coffee shop that serves chinese food . it is located in the riverside and has an average customer rating . 
+0.9432690607682461
+aromi is a highly rated coffee shop that serves chinese food . it is located in the riverside area and is kid friendly . 
+0.6351207406985759
+aromi is a coffee shop that serves chinese food . it is located in the city centre . it is not family friendly and has a low customer rating . 
+0.8916837645073701
+aromi is a family - friendly coffee shop that serves chinese food . it is located in the city centre and has a low customer rating . 
+0.549883240704226
+aromi is a coffee shop that serves chinese food . it is located in the riverside area and has a low customer rating and is not family friendly . 
+0.7313437664490181
+aromi is a family friendly coffee shop that serves chinese food . it is located in the riverside and has a low customer rating . 
+0.6339704064341254
+aromi is a family friendly coffee shop that serves english food . it is located in the riverside area and has a customer rating of 1 out of 5 . 
+0.5031859563787617
+aromi is a kid friendly coffee shop that serves english food . it is located in riverside and has a customer rating of 3 out of 5 . 
+0.6779670437190585
+aromi is a non - family - friendly coffee shop in the city centre . it serves english food and has a customer rating of 5 out of 5 . 
+0.5775107557288739
+aromi is a family - friendly coffee shop in the city centre . it serves english food and has a customer rating of 5 out of 5 . 
+0.7680513194272219
+aromi is a coffee shop that serves english food . it is located in riverside and has a customer rating of 5 out of 5 . it is not family - friendly . 
+0.590084044458701
+aromi is a family friendly coffee shop that serves english food . it is located in the riverside area and has a customer rating of 5 out of 5 . 
+0.7365041048956175
+aromi is a non - family - friendly coffee shop in the city centre . it serves english food and has an average customer rating . 
+0.632708767532676
+aromi is a family - friendly coffee shop in the city centre . it serves english food and has an average customer rating . 
+0.6355034627631705
+aromi is an average rated coffee shop that serves english food . it is located in the riverside area and is not family - friendly . 
+0.7058341838021321
+aromi is a family friendly coffee shop that serves english food . it is located in the riverside area and has an average customer rating . 
+0.7733985269558932
+aromi is a highly rated kid friendly coffee shop that serves english food . it is located in the riverside area . 
+0.7352295407675996
+aromi is a coffee shop that serves english food . it is located in the city centre . it is not family - friendly and has a low customer rating . 
+0.8223190350570876
+aromi is a family - friendly coffee shop that serves english food . it is located in the city centre and has a low customer rating . 
+0.7091781943504633
+aromi is a coffee shop that serves english food . it is located in the riverside area and has a low customer rating and is not family - friendly . 
+0.7790810826339334
+aromi is a family friendly coffee shop that serves english food . it is located in the riverside area and has a low customer rating . 
+0.6879085234628306
+bibimbap house is located in the city centre near café sicilia . 
+0.81903625881272
+bibimbap house is a restaurant in the riverside area near café sicilia . 
+0.7839067979033139
+browns cambridge is a family friendly coffee shop that serves chinese food . it is located in the riverside area near crowne plaza hotel . it has a customer rating of 1 out of 5 . 
+0.8613289683843511
+browns cambridge is a family friendly coffee shop that serves chinese food . it is located in the riverside area and is near crowne plaza hotel . 
+0.562691966385046
+browns cambridge is a coffee shop that serves chinese food . it is located in the city centre . it is near crowne plaza hotel . its customer rating is 5 out of 5 and is not family - friendly . 
+0.760991332618946
+browns cambridge is a family friendly coffee shop that serves chinese food . it is located in the city centre near crowne plaza hotel . it has a customer rating of 5 out of 5 . 
+0.7625641342766893
+browns cambridge is a coffee shop that serves chinese food . it is located in riverside near crowne plaza hotel . it is not family friendly and has a customer rating of 5 out of 5 . 
+0.7284198308479192
+browns cambridge is a family friendly coffee shop that serves chinese food . it is located in the riverside area and is near crowne plaza hotel . 
+0.7046855482899499
+browns cambridge is a coffee shop that serves chinese food . it is located in the city centre , near crowne plaza hotel . it is not family - friendly and has an average customer rating . 
+0.8643929263971034
+browns cambridge is a family friendly coffee shop that serves chinese food . it is located in the city centre and near the crowne plaza hotel . it has an average customer rating . 
+0.6192227701143045
+browns cambridge is a coffee shop that serves chinese food . it is located in the riverside area , near crowne plaza hotel . it is not family friendly and has an average customer rating . 
+0.897433711344091
+browns cambridge is a family friendly coffee shop that serves chinese food . it is located in the riverside area and is near the crowne plaza hotel . 
+0.816496580927726
+browns cambridge is a highly rated coffee shop that serves chinese food . it is located in riverside and is near crowne plaza hotel . 
+0.7902529973621358
+browns cambridge is a coffee shop that serves chinese food . it is located in the city centre , near crowne plaza hotel . it is not family friendly and has a low customer rating . 
+0.9550410923921496
+browns cambridge is a family friendly coffee shop that serves chinese food . it is located in the city centre near crowne plaza hotel . it has a low customer rating . 
+0.7175852914772133
+browns cambridge is a coffee shop that serves chinese food . it is located in the riverside area near crowne plaza hotel . it is not family friendly and has a low customer rating . 
+0.7106857755533711
+browns cambridge is a family friendly coffee shop that serves chinese food . it is located in the riverside area and is near crowne plaza hotel . 
+0.7695828351460221
+browns cambridge is a family friendly coffee shop that serves english food . it is located in the riverside area near crowne plaza hotel . it has a customer rating of 1 out of 5 . 
+0.8890061704801372
+browns cambridge is a family friendly coffee shop near crowne plaza hotel . it serves english food and has a customer rating of 3 out of 5 . 
+0.556717205315772
+browns cambridge is a coffee shop that serves english food . it is located in the city centre near crowne plaza hotel . it is not family - friendly and has a customer rating of 5 out of 5 . 
+0.7367350097004979
+browns cambridge is a family - friendly coffee shop that serves english food . it is located in the city centre near crowne plaza hotel . it has a customer rating of 5 out of 5 . 
+0.7135909398180091
+browns cambridge is a coffee shop that serves english food . it is located in riverside near crowne plaza hotel . it is not family - friendly and has a customer rating of 5 out of 5 . 
+0.5522427996650665
+browns cambridge is a family friendly coffee shop that serves english food . it is located in the riverside area near crowne plaza hotel . it has a customer rating of 5 out of 5 . 
+0.7679536154029294
+browns cambridge is a coffee shop that serves english food . it is located in the city centre near crowne plaza hotel . it has an average customer rating and is not family - friendly . 
+0.6592368094002906
+browns cambridge is a family - friendly coffee shop serving english food . it is located in the city centre near crowne plaza hotel . it has an average customer rating . 
+0.7620852891873622
+browns cambridge is an average rated coffee shop that serves english food . it is located in the riverside area near crowne plaza hotel . it is not family - friendly . 
+0.49347894192728003
+browns cambridge is a family friendly coffee shop that serves english food . it is located in the riverside area near crowne plaza hotel and has an average customer rating . 
+0.720796398857776
+browns cambridge is a highly rated coffee shop that serves english food . it is located in riverside near crowne plaza hotel . it is kid friendly . 
+0.6583830514378628
+browns cambridge is a coffee shop that serves english food . it is located in the city centre near crowne plaza hotel . it is not family - friendly and has a low customer rating . 
+0.8465026950391457
+browns cambridge is a family - friendly coffee shop that serves english food . it is located in the city centre near crowne plaza hotel . it has a low customer rating . 
+0.7179254599972413
+browns cambridge is a coffee shop that serves english food . it is located in the riverside area near crowne plaza hotel . it is not family - friendly and has a low customer rating . 
+0.8675979125638379
+browns cambridge is a family friendly coffee shop that serves english food . it is located in the riverside area near crowne plaza hotel and has a low customer rating . 
+0.8624081905239929
+clowns is a coffee shop that serves chinese food . it is located in the riverside area near clare hall . it has a customer rating of 1 out of 5 . 
+0.7997513045108656
+clowns is a coffee shop that serves chinese food . it is located in the riverside area near clare hall . it has a customer rating of 3 out of 5 . 
+0.7075082044428431
+clowns is a coffee shop that serves chinese food . it is located in the city centre , near clare hall . it has a customer rating of 5 out of 5 . 
+0.5352430116192994
+clowns is a 5 out of 5 rated coffee shop that serves chinese food . it is located in riverside and near clare hall . 
+0.6455281042441093
+clowns is a coffee shop that serves chinese food . it is located in the city centre and is near clare hall . it has an average customer rating . 
+0.9136356015219103
+clowns is a coffee shop that serves chinese food . it is located in the riverside area and is near clare hall . it has an average customer rating . 
+0.6742573329828824
+clowns is a highly rated coffee shop that serves chinese food . it is located in the riverside area near clare hall . 
+0.5424434930647153
+clowns is a coffee shop that serves chinese food . it is located in the city centre near clare hall . it has a low customer rating . 
+0.803842481215908
+clowns is a low rated coffee shop that serves chinese food . it is located in the riverside area near clare hall . 
+0.8764445248055556
+clowns is a coffee shop that serves english food . it is located in the riverside area near clare hall . it has a customer rating of 1 out of 5 . 
+0.8159160639728488
+clowns is a coffee shop that serves english food . it is located in the riverside area near clare hall . it has a customer rating of 3 out of 5 . 
+0.3697698120432046
+clowns is a coffee shop that serves english food . it is located in the city centre near clare hall . it has a customer rating of 5 out of 5 . 
+0.6932247277489274
+clowns is a five star coffee shop that serves english food . it is located in the riverside area near clare hall . 
+0.5700405643085635
+clowns is a coffee shop that serves english food . it is located in the city centre near clare hall . it has an average customer rating . 
+0.8522136613254105
+clowns is a three star coffee shop that serves english food . it is located in the riverside area near clare hall . 
+0.7968377722836948
+clowns is a high rated coffee shop that serves english food . it is located in the riverside area near clare hall . 
+0.6749314965971284
+clowns is a coffee shop that serves english food . it is located in the city centre near clare hall . it has a low customer rating . 
+0.7711686154467469
+clowns is a low rated coffee shop near clare hall . 
+0.5575641807085779
+cocum is a coffee shop that serves chinese food . it has a high customer rating and is not kid friendly and has a price range of £20 - 25 . 
+0.4562576605943005
+cocum is a kid friendly coffee shop that serves high priced chinese food . it has a high customer rating . 
+0.43921245811725435
+cocum is a cheap coffee shop that serves chinese food . it is not family friendly and has a customer rating of 5 out of 5 . 
+0.6965375252185513
+cocum is a cheap coffee shop that serves chinese food . it is family friendly and has a customer rating of 5 out of 5 . 
+0.3504282236266068
+cocum is a cheap coffee shop that serves chinese food . it has an average customer rating and is not family friendly . 
+0.778846255844682
+cocum is a family friendly coffee shop that serves cheap chinese food . it has an average customer rating . 
+0.9264961280431517
+cocum is a high priced coffee shop that serves chinese food . it is not child friendly and has a customer rating of 1 out of 5 . 
+0.712374968708543
+cocum is a high priced , 1 - star , family friendly coffee shop that serves chinese food . 
+0.6334323002440795
+cocum is a high priced coffee shop that serves chinese food . it is not child friendly and has an average customer rating . 
+0.5857726400142057
+cocum is a high priced , average rated family friendly coffee shop serving chinese food . 
+0.2601623006987433
+cocum is a coffee shop that serves chinese food for less than £20 . it is not family friendly and has a low customer rating . 
+0.9894164999496223
+cocum is a family friendly coffee shop that serves chinese food with a price range of less than £20 . it has a low customer rating . 
+0.8548366750517187
+cocum is a moderately priced coffee shop that serves chinese food . it is not kid friendly and has a customer rating of 1 out of 5 . 
+0.6989815540817378
+cocum is a moderately priced coffee shop that serves chinese food . it is kid friendly and has a customer rating of 1 out of 5 . 
+1.0
+cocum is a moderately priced coffee shop that serves chinese food . it is not kid friendly and has a customer rating of 3 out of 5 . 
+0.6790173443790735
+cocum is a moderately priced , kid friendly coffee shop that serves chinese food . it has a customer rating of 3 out of 5 . 
+0.7855348581734497
+cocum is a high rated coffee shop that serves chinese food . it is not child friendly and has a price range of more than £30 . 
+0.8216809466306114
+cocum is a high rated , child friendly coffee shop that serves chinese food . the price range is more than £30 . 
+0.47913131225520417
+cocum is a coffee shop that serves english food . it has a high customer rating and is not kid friendly . 
+0.527929204619828
+cocum is a kid friendly coffee shop that serves english food . it has a high customer rating and a price range of £20 - 25 . 
+0.6544568374284448
+cocum is a cheap coffee shop that serves english food . it is not family - friendly and has a customer rating of 5 out of 5 . 
+0.7511211205707404
+cocum is a family friendly coffee shop that serves cheap food . it has a customer rating of 5 out of 5 . 
+0.7430940769686325
+cocum is a cheap coffee shop that serves english food . it has an average customer rating and is not family - friendly . 
+0.7055645543810035
+cocum is a family friendly coffee shop that serves cheap food . 
+0.657331451983199
+cocum is a high priced coffee shop that serves english food . it is not child friendly and has a customer rating of 1 out of 5 . 
+0.6004317961577512
+cocum is a high priced coffee shop that serves british food . it is family friendly and has a customer rating of 1 out of 5 . 
+0.72549505802213
+cocum is a high priced coffee shop that serves english food . it is not child friendly and has an average customer rating . 
+0.5513251122859945
+cocum is a family friendly coffee shop with an average customer rating . it serves english food and is in the high price range . 
+0.2888005637508866
+cocum is a low rated coffee shop that serves english food . it is not family - friendly and has a price range of less than £20 . 
+0.49234746956237607
+cocum is a family friendly coffee shop that serves low - priced food . 
+0.6987939168850861
+cocum is a coffee shop that serves moderately priced english food . it is not family - friendly and has a customer rating of 1 out of 5 . 
+0.523102610698275
+cocum is a family friendly coffee shop with a moderate price range and a customer rating of 1 out of 5 . 
+0.8086977618760051
+cocum is a moderately priced coffee shop that serves english food . it is not kid friendly and has a customer rating of 3 out of 5 . 
+0.7268125534680256
+cocum is a family friendly coffee shop with a moderate price range and a customer rating of 3 out of 5 . 
+0.6576092928889222
+cotto is a coffee shop that serves chinese food in the £20 - 25 price range . it is located in the city centre . it is near the portland arms . its customer rating is high . 
+0.6288485302990535
+cotto is a highly rated coffee shop that serves chinese food . it is located in the riverside area , near the portland arms . it has a price range of £20 - 25 . 
+0.4715305142596615
+cotto is a cheap coffee shop that serves chinese food . it is located in the city centre , near the portland arms . it has a customer rating of 5 out of 5 . 
+0.7492149812108179
+cotto is a cheap coffee shop that serves chinese food . it is located in the riverside area near the portland arms . it has a customer rating of 5 out of 5 . 
+0.7295825158420239
+cotto is a cheap coffee shop that serves chinese food . it is located in the city centre and is near the portland arms . it has an average customer rating . 
+0.7285439615856204
+cotto is a cheap coffee shop that serves chinese food . it is located in the riverside area and is near the portland arms . it has an average customer rating . 
+0.4679751841036104
+cotto is a high priced coffee shop that serves chinese food . it is located in the city centre , near the portland arms . it has a customer rating of 1 out of 5 . 
+0.6890319809772574
+cotto is a high priced coffee shop that serves chinese food . it is located in the riverside area near the portland arms . it has a customer rating of 1 out of 5 . 
+0.5741256543611015
+cotto is a high priced coffee shop that serves chinese food . it is located in the city centre and is near the portland arms . it has an average customer rating . 
+0.6161778625273855
+cotto is a high priced coffee shop that serves chinese food . it is located in the riverside area and is near the portland arms . 
+0.4868244620505946
+cotto is a coffee shop that serves chinese food in the less than £20 price range . it is located in the city centre near the portland arms . it has a low customer rating . 
+0.8734891389462542
+cotto is a low rated coffee shop that serves chinese food for less than £20 . it is located in the riverside area near the portland arms . 
+0.9323046010861441
+cotto is a moderately priced coffee shop that serves chinese food . it is located in the city centre and is near the portland arms . it has a customer rating of 1 out of 5 . 
+0.6636892164426105
+cotto is a moderately priced coffee shop that serves chinese food . it is located in the riverside area near the portland arms . it has a customer rating of 1 out of 5 . 
+0.9226476256029961
+cotto is a moderately priced coffee shop that serves chinese food . it is located in the city centre and is near the portland arms . it has a customer rating of 3 out of 5 . 
+0.8072073869427866
+cotto is a moderately priced coffee shop that serves chinese food . it is located in the riverside area and is near the portland arms . 
+0.7393509744701052
+cotto is a high rated coffee shop that serves chinese food . it is located in the city centre and is near the portland arms . 
+0.5853860604579073
+cotto is a high rated coffee shop that serves chinese food . it is located in the riverside area and is near the portland arms . 
+0.6304969458311187
+cotto is a coffee shop that serves english food . it is located in the city centre near the portland arms . it has a high customer rating and a price range of £20 - 25 . 
+0.6302700706504732
+cotto is a coffee shop that serves english food . it is located in the riverside area near the portland arms . it has a high customer rating and a price range of £20 - 25 . 
+0.5191042346339515
+cotto is a cheap coffee shop that serves english food . it is located in the city centre near the portland arms . it has a customer rating of 5 out of 5 . 
+0.6543617403474553
+cotto is a cheap coffee shop that serves english food . it is located in the riverside area near the portland arms . it has a customer rating of 5 out of 5 . 
+0.603633907239811
+cotton is a cheap coffee shop that serves english food . it is located in the riverside area near the portland arms . it has a customer rating of 5 out of 5 . 
+0.2111098150919889
+cotto is a cheap coffee shop that serves english food . it is located in the riverside area near the portland arms . it has a customer rating of 5 out of 5 . 
+0.603633907239811
+cotto is a cheap coffee shop that serves english food . it is located in the city centre near the portland arms . it has an average customer rating . 
+0.4597886747096904
+cotto is a cheap coffee shop that serves english food . it is located in the riverside area near the portland arms . it has an average customer rating . 
+0.8237762429448149
+cotto is a high priced coffee shop in the city centre near the portland arms . it has a customer rating of 1 out of 5 and serves english food . 
+0.7379930300020349
+cotto is a high priced coffee shop that serves english food . it is located in the riverside area near the portland arms . it has a customer rating of 1 out of 5 . 
+0.6283080589773311
+cotto is a high priced coffee shop in the city centre near the portland arms . it has an average customer rating . 
+0.6484301779337898
+cotto is a high priced coffee shop near the portland arms . 
+0.5341806166920042
+cotto is a low rated coffee shop in the city centre near the portland arms . it serves english food and has a price range of less than £20 . 
+0.6706918285498682
+cotto is a low - priced coffee shop near the portland arms . 
+0.4728923771367139
+cotto is a moderately priced coffee shop that serves english food . it is located in the city centre near the portland arms . it has a customer rating of 1 out of 5 . 
+0.7255076539691467
+cotto is a moderately priced coffee shop that serves english food . it is located in the riverside area near the portland arms . it has a customer rating of 1 out of 5 . 
+0.6872611868530897
+cotto is a moderately priced coffee shop in the city centre near the portland arms . it has a customer rating of 3 out of 5 and serves english food . 
+0.6678949129409797
+cotto is a moderately priced coffee shop near the portland arms . 
+0.7831566121841202
+cotto is a high rated coffee shop in the city centre near the portland arms . it serves english food and has a price range of more than £30 . 
+0.5860837519432689
+fitzbillies is a coffee shop that serves chinese food in the £20 - 25 price range . it is located in the city centre . its customer rating is high . 
+0.684858845765345
+fitzbillies is a kid friendly coffee shop that serves high priced chinese food . it is located in the city centre and has a high customer rating . 
+0.7091299972295233
+fitzbillies is a coffee shop that serves high priced chinese food . it is located in the riverside area and is not family friendly and has a high customer rating . 
+0.5831310950518168
+fitzbillies is a kid friendly coffee shop that serves high priced chinese food . it is located in the riverside area and has a high customer rating . 
+0.531122837848009
+fitzbillies is a cheap coffee shop that serves chinese food . it is located in the city centre . it is not family friendly and has a customer rating of 5 out of 5 . 
+0.787721542167042
+fitzbillies is a cheap coffee shop that serves chinese food . it is located in the city centre . it is family friendly and has a customer rating of 5 out of 5 . 
+0.574216741489306
+fitzbillies is a cheap coffee shop that serves chinese food . it is located in riverside . it is not family friendly and has a customer rating of 5 out of 5 . 
+0.6322389244993842
+fitzbillies is a cheap coffee shop that serves chinese food . it is located in the riverside area and has a customer rating of 5 out of 5 and is family friendly . 
+0.5567222840413895
+fitzbillies is a cheap coffee shop that serves chinese food . it is located in the city centre and has an average customer rating . it is not family - friendly . 
+0.6540448836294275
+fitzbillies is a cheap , family friendly coffee shop that serves chinese food . it is located in the city centre and has an average customer rating . 
+0.6336107067679622
+fitzbillies is a cheap coffee shop that serves chinese food . it is located in the riverside area and has an average customer rating and is not family friendly . 
+0.7216352466248726
+fitzbillies is a family friendly coffee shop that serves cheap chinese food . it is located in the riverside area and has an average customer rating . 
+0.5699115520644059
+fitzbillies is a high priced coffee shop that serves chinese food . it is located in the city centre . it is not a family friendly and only only 1 out of 5 . 
+0.6464443981909318
+fitzbillies is a high priced coffee shop that serves chinese food . it is located in the city centre . it is child friendly and has a customer rating of 1 out of 5 . 
+0.5931827503177233
+fitzbillies is a high priced coffee shop that serves chinese food . it is located in the riverside area and is not child friendly and has a customer rating of 1 out of 5 . 
+0.5724135757501086
+fitzbillies is a high priced coffee shop that serves chinese food . it is located in the riverside area and is child friendly and has a customer rating of 1 out of 5 . 
+0.39745804645119753
+fitzbillies is a high priced coffee shop that serves chinese food . it is located in the city centre and is not child friendly and has an average customer rating . 
+0.6231677651839369
+fitzbillies is a high priced , average rated coffee shop that serves chinese food . it is located in the city centre and is family friendly . 
+0.5184875857586885
+fitzbillies is a high priced coffee shop that serves chinese food . it is located in the riverside area and is not child friendly and has an average customer rating . 
+0.7333366901302149
+fitzbillies is a high priced , average rated coffee shop that serves chinese food . it is located in the riverside area and is family friendly . 
+0.4885744139976472
+fitzbillies is a coffee shop that serves chinese food in the less than £20 price range . it is located in the city centre . its customer rating is low and it is not family - friendly . 
+0.5715134882327859
+fitzbillies is a family friendly coffee shop that serves cheap chinese food . it is located in the city centre and has a low customer rating . 
+0.6064709691265119
+fitzbillies is a coffee shop that serves chinese food in the riverside area . it is not family - friendly and has a low customer rating and a price range of less than £20 . 
+0.5624089346084856
+fitzbillies is a family friendly coffee shop that serves cheap chinese food . it is located in the riverside area and has a low customer rating . 
+0.6536834346921232
+fitzbillies is a moderately priced coffee shop that serves chinese food . it is located in the city centre and is not kid friendly and has a customer rating of 1 out of 5 . 
+0.7471884141493914
+fitzbillies is a moderately priced coffee shop that serves chinese food . it is located in the city centre and has a customer rating of 1 out of 5 and is kid friendly . 
+0.6377653239319149
+fitzbillies is a moderately priced coffee shop that serves chinese food . it is located in the riverside area and is not kid friendly and has a customer rating of 1 out of 5 . 
+0.7955490387759714
+fitzbillies is a moderately priced coffee shop that serves chinese food . it is located in the riverside area and has a customer rating of 1 out of 5 and is kid friendly . 
+0.6872845501500788
+fitzbillies is a moderately priced coffee shop that serves chinese food . it is located in the city centre and has a customer rating of 3 out of 5 and is not kid friendly . 
+0.84718361688912
+fitzbillies is a moderately priced , kid friendly coffee shop that serves chinese food . it is located in the city centre and has a customer rating of 3 out of 5 . 
+0.6558721169980718
+fitzbillies is a moderately priced coffee shop that serves chinese food . it is located in the riverside area and is not kid friendly and has a customer rating of 3 out of 5 . 
+0.7117710713217804
+fitzbillies is a moderately priced coffee shop that serves chinese food . it is located in the riverside area and is kid friendly and has a customer rating of 3 out of 5 . 
+0.7322501380936575
+fitzbillies is a high rated coffee shop that serves chinese food . it is located in the city centre . it is not child friendly and has a price range of more than £30 . 
+0.514887140386251
+fitzbillies is a highly rated , child friendly coffee shop that serves chinese food in the city centre . 
+0.40456108016050757
+fitzbillies is a high rated coffee shop that serves chinese food . it is located in the riverside area and is not child friendly and has a price range of more than £30 . 
+0.5792157224731826
+fitzbillies is a high rated coffee shop that serves chinese food . it is located in the riverside area and is child friendly and has a price range of more than £30 . 
+0.46301814680366066
+fitzbillies is a non - kid friendly coffee shop in the city centre . it serves english food and has a high customer rating and a price range of £20 - 25 . 
+0.6083930004179682
+fitzbillies is a kid - friendly coffee shop that serves english food . it is located in the city centre and has a high customer rating and a price range of £20 - 25 . 
+0.5381550658726253
+fitzbillies is a coffee shop that serves english food . it is not kid friendly and has a high customer rating . it is located in the riverside area and has a price range of £20 - 25 . 
+0.4519072529878704
+fitzbillies is a kid friendly coffee shop that serves english food . it is located in the riverside area and has a high customer rating and a price range of £20 - 25 . 
+0.6388393544491943
+fitzbillies is a cheap coffee shop that serves english food . it is located in the city centre . it is not family - friendly and has a customer rating of 5 out of 5 . 
+0.39505917625942594
+fitzbillies is a family - friendly coffee shop that serves cheap english food . it is located in the city centre and has a customer rating of 5 out of 5 . 
+0.586445197537159
+fitzbillies is a cheap coffee shop that serves english food . it is located in riverside and has a customer rating of 5 out of 5 . it is not family - friendly . 
+0.6821868666249132
+fitzbillies is a family friendly coffee shop that serves cheap food . it is located in the city centre . 
+0.5124209429740174
+fitzbillies is a cheap coffee shop that serves english food . it is located in the city centre and has an average customer rating . it is not family - friendly . 
+0.5418739057997506
+fitzbillies is a family - friendly coffee shop that serves cheap english food . it is located in the city centre and has an average customer rating . 
+0.8776838192194517
+fitzbillies is a cheap coffee shop that serves english food . it is located in the riverside area and has an average customer rating . it is not family - friendly . 
+0.3579797101001022
+fitzbillies is a family friendly coffee shop that serves cheap food . it is located in the city centre . 
+0.6883887725749701
+fitzbillies is a coffee shop that serves english food . it is located in the city centre . it is not child friendly and has a customer rating of 1 out of 5 . 
+0.7360111767340137
+fitzbillies is a children friendly coffee shop in the city centre . it serves expensive food and has a customer rating of 1 out of 5 . 
+0.5645596772315911
+fitzbillies is a high priced coffee shop that serves english food . it is located in riverside . it is not family - friendly and has a customer rating of 1 out of 5 . 
+0.6548005693306422
+fitzbillies is a high priced coffee shop that is family friendly . it is located in the city centre . 
+0.5463659718782182
+fitzbillies is a high priced coffee shop in the city centre . it is not child friendly and has an average customer rating . 
+0.6680785126715956
+fitzbillies is a children friendly coffee shop in the city centre . it serves english food and has an average customer rating and is high priced . 
+0.555095986841787
+fitzbillies is a high priced coffee shop in the riverside area . it is not family - friendly and has an average customer rating . 
+0.5901478489176365
+fitzbillies is a high priced , three star , family friendly coffee shop . 
+0.2676032275663791
+fitzbillies is a coffee shop that serves english food . it is not family - friendly and has a low customer rating . it is located in the city centre and is priced less than £20 . 
+0.49792966799906324
+fitzbillies is a family - friendly coffee shop that serves english food . it is located in the city centre and has a low customer rating and a price range of less than £20 . 
+0.7761371843487274
+fitzbillies is a low - priced coffee shop that is not family - friendly . it is located in the riverside area and has a low customer rating . 
+0.8370732699288547
+fitzbillies is a family friendly coffee shop that serves low - priced food . 
+0.39497969218829065
+fitzbillies is a coffee shop that serves english food in the moderate price range . it is located in the city centre . it is not child friendly and has a customer rating of 1 out of 5 . 
+0.5442968785799543
+fitzbillies is a kid friendly coffee shop with a moderate price range . it is located in the city centre . it has a customer rating of 1 out of 5 . 
+0.8270195151054492
+fitzbillies is a coffee shop that serves moderately priced english food . it is located in the riverside area and is not family - friendly and has a customer rating of 1 out of 5 . 
+0.6191666312221434
+fitzbillies is a family friendly coffee shop with a moderate price range . it is located in the riverside area and has a customer rating of 1 out of 5 . 
+0.7799812355882174
+fitzbillies is a moderately priced coffee shop in the city centre . it is not kid friendly and has a customer rating of 3 out of 5 . 
+0.7790790721150783
+fitzbillies is a kid friendly coffee shop in the city centre . it serves english food and has a customer rating of 3 out of 5 . 
+0.765388641439664
+fitzbillies is a moderately priced coffee shop that is not kid friendly . it is located in the riverside area and has a customer rating of 3 out of 5 . 
+0.5914366705354429
+fitzbillies is a kid friendly coffee shop with a moderate price range . it is located in the riverside area and has a customer rating of 3 out of 5 . 
+0.7839890373658002
+fitzbillies is a highly rated coffee shop in the city centre . it is not child friendly and has a price range of more than £30 . 
+0.4819861866752233
+fitzbillies is a child friendly coffee shop in the city centre . it serves english food and has a high customer rating and a price range of more than £30 . 
+0.7473123498020561
+fitzbillies is a high rated coffee shop in the riverside area . it is not child friendly and has a high customer rating . 
+0.5548010744153454
+midsummer house is near the bakers . it has a customer rating of 1 out of 5 . 
+0.8492326635760689
+midsummer house is near the bakers . it has a customer rating of 3 out of 5 . 
+0.8196675010992033
+midsummer house is a restaurant near the bakers with a customer rating of 5 out of 5 . 
+0.6385925180488682
+midsummer house is near the bakers and has an average customer rating . 
+0.7115965735877551
+midsummer house is a high rated restaurant near the bakers . 
+0.8352052074548169
+midsummer house is a low rated restaurant near the bakers . 
+0.8344522897223012
+taste of cambridge is a coffee shop that serves chinese food . it is located in the city centre near crowne plaza hotel . it is not family friendly . 
+0.7663029554391028
+taste of cambridge is a family friendly coffee shop that serves chinese food . it is located in the city centre near crowne plaza hotel . 
+0.8025342290018106
+taste of cambridge is a coffee shop that serves chinese food . it is located in the riverside area near crowne plaza hotel . it is not family friendly . 
+0.8787142254774354
+taste of cambridge is a family friendly coffee shop that serves chinese food . it is located in the riverside area near crowne plaza hotel . 
+0.9379736437865928
+taste of cambridge is a coffee shop that serves english food . it is located in the city centre near crowne plaza hotel . it is not family - friendly . 
+0.89311849764948
+taste of cambridge is a family - friendly coffee shop that serves english food . it is located in the city centre near crowne plaza hotel . 
+0.9197310309885719
+taste of cambridge is a coffee shop that serves english food . it is located in the riverside area near crowne plaza hotel . it is not family - friendly . 
+0.7021387429293126
+taste of cambridge is a family friendly coffee shop that serves english food . it is located in the riverside area near crowne plaza hotel . 
+1.0
+the cambridge blue is a coffee shop near burger king in the riverside area . it is kid friendly and has a customer rating of 1 out of 5 . 
+0.9730694491905492
+the cambridge blue is a coffee shop near burger king in the riverside area . it is kid friendly and has a customer rating of 3 out of 5 . 
+0.878360261971396
+the cambridge blue is a coffee shop in the city centre near burger king . it has a customer rating of 5 out of 5 and is not family - friendly . 
+0.8403377447110126
+the cambridge blue is a family - friendly coffee shop in the city centre near burger king . it has a customer rating of 5 out of 5 . 
+0.7386345203739615
+the cambridge blue is a coffee shop near burger king in the riverside area . it has a customer rating of 5 out of 5 and is not family - friendly . 
+0.8457287484547531
+the cambridge blue is a family friendly coffee shop near burger king . 
+0.7178319052144484
+the cambridge blue is a coffee shop in the city centre near burger king . it has an average customer rating and is not family - friendly . 
+0.7599226482493713
+the cambridge blue is a family - friendly coffee shop in the city centre near burger king . it has an average customer rating . 
+0.7629140836685815
+the cambridge blue is a coffee shop near burger king in the riverside area . it has an average customer rating and is not family - friendly . 
+0.6469233960701192
+the cambridge blue is a family friendly coffee shop near burger king . 
+0.6807123983233854
+the cambridge blue is a coffee shop that is highly rated by customers . it is located in the riverside area , near burger king . it is kid friendly . 
+0.7372712755641132
+the cambridge blue is a coffee shop in the city centre near burger king . it is not family - friendly and has a low customer rating . 
+0.9011092846825796
+the cambridge blue is a coffee shop in the city centre near burger king . it is family - friendly and has a low customer rating . 
+0.8275723477292393
+the cambridge blue is a coffee shop near burger king in the riverside area . it is not family - friendly and has a low customer rating . 
+0.8208773457215558
+the cambridge blue is a family friendly coffee shop near burger king . it has a low customer rating and is in the riverside area . 
+0.7913547592495158
+the cricketers is a coffee shop that serves chinese food . it is near the portland arms . it is kid friendly and has a customer rating of 1 out of 5 . 
+0.8346749995619362
+the cricketers is a coffee shop that serves chinese food . it is near the portland arms . it is kid friendly and has a customer rating of 3 out of 5 . 
+0.9124007059423291
+the cricketers is a coffee shop that serves chinese food . it is located near the portland arms . it is not family friendly and has a customer rating of 5 out of 5 . 
+0.5713925593027518
+the cricketers is a family friendly coffee shop serving chinese food . it is near the portland arms and has a customer rating of 5 out of 5 . 
+0.5181903051185147
+the cricketers is a coffee shop serving chinese food . it is near the portland arms . it is not family - friendly and has an average customer rating . 
+0.8141346916201906
+the cricketers is a family friendly coffee shop serving chinese food . it is near the portland arms and has an average customer rating . 
+0.7883656602879476
+the cricketers is a highly rated coffee shop that serves chinese food . it is located near the portland arms and is kid friendly . 
+0.7551677598145264
+the cricketers is a coffee shop that serves chinese food . it is near the portland arms . it is not family friendly and has a low customer rating . 
+0.8485417144171399
+the cricketers is a family friendly coffee shop that serves chinese food . it is near the portland arms and has a low customer rating . 
+0.7614959267882765
+the cricketers is a family friendly coffee shop serving english food . it is located near the portland arms and has a customer rating of 1 out of 5 . 
+0.6417221371928962
+the cricketers is a family friendly coffee shop near the portland arms . it serves english food and has a customer rating of 3 out of 5 . 
+0.35842726788313084
+the cricketers is a coffee shop serving english food . it is located near the portland arms . it is not family - friendly and has a customer rating of 5 out of 5 . 
+0.7353736610412598
+the cricketers is a family friendly coffee shop near the portland arms . it serves english food and has a customer rating of 5 out of 5 . 
+0.7942138882547761
+the cricketers is an average rated coffee shop that serves english food . it is located near the portland arms and is not family - friendly . 
+1.0
+the cricketers is a family friendly coffee shop near the portland arms . it serves english food and has an average customer rating . 
+0.8682041012598415
+the cricketers is a highly rated coffee shop that serves english food . it is located near the portland arms . 
+0.7304536606960949
+the cricketers is a coffee shop that serves english food . it is located near the portland arms . it is not family - friendly and has a low customer rating . 
+0.8169601045778886
+the cricketers is a family friendly coffee shop near the portland arms . it serves english food and has a low customer rating . 
+0.8476692823377884
+the eagle is a family friendly restaurant near café brazil . it has a customer rating of 1 out of 5 . 
+0.8850703089589212
+the eagle is a kid friendly restaurant near café brazil . it has a customer rating of 3 out of 5 . 
+0.9223719203202825
+the eagle is a restaurant in the city centre near café brazil . it has a customer rating of 5 out of 5 and is not family - friendly . 
+0.6313723621572042
+the eagle is a family - friendly restaurant in the city centre near café brazil with a customer rating of 5 out of 5 . 
+0.7327918353628085
+the eagle is a restaurant in the riverside area near café brazil . it has a customer rating of 5 out of 5 and is not family - friendly . 
+0.5824989736945807
+the eagle is a family friendly restaurant located near café brazil . 
+0.5601148467600306
+the eagle is an average rated non - family - friendly restaurant in the city centre near café brazil . 
+0.6386348747928534
+the eagle is a family - friendly restaurant in the city centre near café brazil . it has an average customer rating . 
+0.7750077850754332
+the eagle is an average rated restaurant near café brazil . it is not family - friendly and is located in the riverside area . 
+0.5517984921708752
+the eagle is a family friendly restaurant near café brazil . it has an average customer rating . 
+0.9071112036324318
+the eagle is a highly rated kid friendly restaurant near café brazil in the riverside area . 
+0.8149915117073744
+the eagle is a restaurant in the city centre near café brazil . it is not family - friendly and has a low customer rating . 
+0.6321929441313295
+the eagle is a family - friendly restaurant located in the city centre near café brazil . it has a low customer rating . 
+0.6978429290017016
+the eagle is a restaurant in the riverside area near café brazil . it is not family - friendly and has a low customer rating . 
+0.7336582587167726
+the eagle is a family friendly restaurant near café brazil . it has a low customer rating . 
+0.9526201829549016
+the eagle is a coffee shop that serves chinese food in the £20 - 25 price range . it is located in the city centre . it is near burger king . its customer rating is high . 
+0.6961178338142128
+the eagle is a highly rated coffee shop that serves chinese food in the £20 - 25 price range . it is located in the city centre near burger king . it is child friendly . 
+0.7572317398646523
+the eagle is a coffee shop that serves chinese food in the £20 - 25 price range . it is located in the riverside . it is near burger king . its customer rating is high . 
+0.9927793111307076
+the eagle is a highly rated coffee shop that serves chinese food . it is located in the riverside area near burger king . it is kid friendly and has a price range of £20 - 25 . 
+0.4520493531465956
+the eagle is a cheap coffee shop that serves chinese food . it is located in the city centre . it is near burger king . it is not family friendly and has a customer rating of 5 out of 5 . 
+0.5661081456389875
+the eagle is a cheap coffee shop that serves chinese food . it is located in the city centre , near burger king . it is family friendly and has a customer rating of 5 out of 5 . 
+0.6676093347449619
+the eagle is a cheap coffee shop that serves chinese food . it is located in riverside near burger king . it is not family friendly and has a customer rating of 5 out of 5 . 
+0.7165182118081034
+the eagle is a cheap coffee shop that serves chinese food . it is located in the riverside area , near burger king . it is family friendly and has a customer rating of 5 out of 5 . 
+0.8001850968736531
+the eagle is a cheap coffee shop that serves chinese food . it is located in the city centre , near burger king . it is not family - friendly and has an average customer rating . 
+0.5279476836489776
+the eagle is a cheap , family friendly coffee shop that serves chinese food . it is located in the city centre , near the burger king . it has an average customer rating . 
+0.6725080050576688
+the eagle is a cheap coffee shop that serves chinese food . it is located in the riverside area , near burger king . it is not family friendly and has an average customer rating . 
+0.7371283231463883
+the eagle is a cheap , family friendly coffee shop that serves chinese food . it is located in the riverside area and is near the burger king . 
+0.6499790569304086
+the eagle is a high priced coffee shop that serves chinese food . it is located in the city centre , near burger king . it is not a family friendly and only 1 out of 5 . 
+0.5916703909212423
+the eagle is a high priced coffee shop that serves chinese food . it is located in the city centre , near burger king . it is child friendly and has a customer rating of 1 out of 5 . 
+0.5102395468717503
+the eagle is a high priced coffee shop that serves chinese food . it is located in the riverside area near burger king . it is not a family friendly and only 1 out of 5 . 
+0.6551316948823924
+the eagles is a high priced coffee shop that serves chinese food . it is located in the riverside area near burger king . it is not a family friendly and only 1 out of 5 . 
+0.30588577393394684
+the eagle is a high priced coffee shop that serves chinese food . it is located in the riverside area near burger king . it is not a family friendly and only 1 out of 5 . 
+0.6551316948823924
+the eagle is a high priced coffee shop that serves chinese food . it is located in the riverside area near burger king . it is child friendly and has a customer rating of 1 out of 5 . 
+0.7691034507224651
+the eagle is a high priced coffee shop that serves chinese food . it is located in the city centre , near burger king . it is not child friendly and has an average customer rating . 
+0.6333252744228663
+the eagle is a high priced , average rated coffee shop that serves chinese food . it is located in the city centre , near burger king . it is child friendly and is in the city centre . 
+0.48136218461263186
+the eagle is a high priced coffee shop that serves chinese food . it is located in the riverside area , near burger king . it is not family friendly and has an average customer rating . 
+0.765817423320987
+the eagle is a high priced , average rated coffee shop that serves chinese food . it is located in the riverside area , near burger king . it is family friendly . 
+0.7073220719276782
+the eagle is a coffee shop that serves chinese food in the less than £20 price range . it is located in the city centre . it is near burger king . its customer rating is low and is not family - friendly . 
+0.8445881157299834
+the eagle is a family friendly coffee shop that serves chinese food . it is located in the city centre near burger king . it has a low customer rating and is less than £20 . 
+0.7883756441607312
+the eagle is a coffee shop that serves chinese food for less than £20 . it is located in the riverside area near burger king . it is not family friendly and has a low customer rating . 
+0.7912993708887387
+the eagle is a family friendly coffee shop that serves cheap chinese food . it is located in the riverside area near burger king . it has a low customer rating . 
+0.5280972216470737
+the eagle is a moderately priced coffee shop that serves chinese food . it is located in the city centre , near burger king . it is not a family friendly establishment and has a customer rating of 1 out of 5 . 
+0.6454569456719239
+the eagle is a moderately priced coffee shop that serves chinese food . it is located in the city centre , near burger king . it is kid friendly and has a customer rating of 1 out of 5 . 
+0.4648693692067172
+the eagle is a moderately priced coffee shop that serves chinese food . it is located in the riverside area near burger king . it is not kid friendly and has a customer rating of 1 out of 5 . 
+0.6346249739916838
+the eagle is a moderately priced coffee shop that serves chinese food . it is located in the riverside area near burger king . it is kid friendly and has a customer rating of 1 out of 5 . 
+0.7278825061958952
+the eagle is a moderately priced coffee shop that serves chinese food . it is located in the city centre . it is near burger king and has a customer rating of 3 out of 5 and is not family friendly . 
+0.6171916207243117
+the eagle is a moderately priced coffee shop that serves chinese food . it is located in the city centre , near burger king . it is kid friendly and has a customer rating of 3 out of 5 . 
+0.8024946025738907
+the eagle is a moderately priced coffee shop that serves chinese food . it is located in the riverside area near burger king . it is not kid friendly and has a customer rating of 3 out of 5 . 
+0.7295825158420239
+the eagle is a moderately priced coffee shop that serves chinese food . it is located in the riverside area , near burger king . it is kid friendly and has a customer rating of 3 out of 5 . 
+0.6862803595364995
+the eagle is a high rated coffee shop that serves chinese food in the city centre . it is not child friendly and has a price range of more than £30 . it is located in the city centre . 
+0.6205999509401842
+the eagle is a highly rated , child friendly coffee shop that serves chinese food in the city centre . it is located near burger king and is more than £30 . 
+0.5339986651863857
+the eagle is a high rated coffee shop that serves chinese food . it is located in riverside near burger king . it is not child friendly and has a price range of more than £30 . 
+0.8019040865791738
+the eagle is a high rated coffee shop that serves chinese food . it is located in riverside and is near burger king . 
+0.3879726932352267
+the eagle is a coffee shop that serves english food . it is located in the city centre near burger king . it is not kid friendly and has a high customer rating . 
+0.7214406746744175
+the eagle is a kid friendly coffee shop that serves english food . it is located in the city centre near burger king . it has a high customer rating and a price range of £20 - 25 . 
+0.8415684459580589
+the eagle is a coffee shop that serves english food . it is located in the riverside area near burger king . it is not kid friendly and has a high customer rating . 
+0.7121043131712586
+the eagle is a family friendly coffee shop that serves high priced food . it is located near burger king . 
+0.5919783121240433
+the eagle is a cheap coffee shop that serves english food . it is located in the city centre near burger king . it is not family - friendly and has a customer rating of 5 out of 5 . 
+0.7226955310658476
+the eagle is a family - friendly coffee shop that serves cheap english food . it is located in the city centre near burger king . it has a customer rating of 5 out of 5 . 
+0.8087619058057589
+the eagle is a cheap coffee shop that serves english food . it is located in riverside near burger king . it is not family - friendly and has a customer rating of 5 out of 5 . 
+0.7890130854040013
+the eagle is a family friendly coffee shop that serves cheap food . it is located near burger king . 
+0.5989032124636782
+the eagle is a cheap coffee shop that serves english food . it is located in the city centre near burger king . it has an average customer rating and is not family - friendly . 
+0.7439151502764448
+the eagle is a family - friendly coffee shop that serves cheap english food . it is located in the city centre near burger king . it has an average customer rating . 
+0.44797114384828296
+the eagle is a cheap coffee shop that serves english food . it is located in the riverside area near burger king . it has an average customer rating and is not family - friendly . 
+0.41220068332005494
+the eagle is a family friendly coffee shop that serves cheap food . it is located near burger king . 
+0.665409984987968
+the eagle is a high priced coffee shop that serves english food . it is located in the city centre near burger king . it is not child friendly and has a customer rating of 1 out of 5 . 
+0.6990268726690884
+the eagle is a high priced coffee shop that serves english food . it is located in the city centre near burger king . it is child friendly and has a customer rating of 1 out of 5 . 
+0.5859485658507574
+the eagle is a high priced coffee shop that serves english food . it is located in the riverside area near burger king . it is not child friendly and has a customer rating of 1 out of 5 . 
+0.5313458923686701
+the eagle is a high priced , family friendly coffee shop that serves english food . it is located in the riverside area near burger king . it has a customer rating of 1 out of 5 . 
+0.6753494875089098
+the eagle is a high priced coffee shop that serves english food . it is located in the city centre near burger king . it is not child friendly and has an average customer rating . 
+0.5998909331022907
+the eagle is a high priced , average rated coffee shop that serves english food . it is located in the city centre near burger king . it is child friendly . 
+0.6060394050459132
+the eagle is a high priced coffee shop that serves english food . it is located in the riverside area near burger king . it is not child friendly and has an average customer rating . 
+0.6853234406569368
+the eagle is a high priced , three star , family friendly coffee shop near burger king . 
+0.47283657774643645
+the eagle is a coffee shop that serves english food . it is located in the city centre near burger king . it is not family - friendly and has a low customer rating . 
+0.8709472763571855
+the eagle is a family - friendly coffee shop that serves english food . it is located in the city centre near burger king . it has a low customer rating and is less than £20 . 
+0.745806190849545
+the eagle is a low rated coffee shop that serves english food . it is located in riverside near burger king . it is not family - friendly and has a price range of less than £20 . 
+0.5549301919135355
+the eagle is a family friendly coffee shop that serves low - priced food . it is located near burger king . 
+0.7453287527344108
+the eagle is a moderately priced coffee shop that serves english food . it is located in the city centre near burger king . it is not kid friendly and has a customer rating of 1 out of 5 . 
+0.8030671998718518
+the eagle is a moderately priced coffee shop that serves english food . it is located in the city centre near burger king . it is kid friendly and has a customer rating of 1 out of 5 . 
+0.5444070271822812
+the eagle is a moderately priced coffee shop that serves english food . it is located in the riverside area near burger king . it is not family - friendly and has a customer rating of 1 out of 5 . 
+0.6484126864276829
+the eagle is a moderately priced coffee shop that serves english food . it is located in the riverside area near burger king . it is kid friendly and has a customer rating of 1 out of 5 . 
+0.693150402255431
+the eagle is a moderately priced coffee shop that serves english food . it is located in the city centre near burger king . it is not kid friendly and has a customer rating of 3 out of 5 . 
+0.5871314520142268
+the eagle is a moderately priced , kid friendly coffee shop that serves english food . it is located in the city centre near burger king . it has a customer rating of 3 out of 5 . 
+0.4530441355630217
+the eagle is a moderately priced coffee shop that serves english food . it is located in the riverside area near burger king . it is not kid friendly and has a customer rating of 3 out of 5 . 
+0.37650513253184575
+the eagle is a moderately priced coffee shop that serves english food . it is located in the riverside area near burger king . it is kid friendly and has a customer rating of 3 out of 5 . 
+0.6187786548520771
+the eagle is a highly rated coffee shop that serves english food . it is located in the city centre near burger king . it is not child friendly and has a price range of more than £30 . 
+0.44780575075736295
+the eagle is a child friendly coffee shop that serves high priced food . it is located in the city centre near burger king . it has a high customer rating . 
+0.6134768626978722
+the eagle is a high rated coffee shop that serves english food . it is located in riverside near burger king . it is not child friendly and has a price range of more than £30 . 
+0.574792529756378
+the golden palace is a coffee shop that serves high priced chinese food . it is located in the city centre and has a high customer rating . 
+0.6228716101382996
+the golden palace is a coffee shop that serves high priced chinese food . it is located in the riverside area and has a high customer rating . 
+0.6139711569233675
+the golden palace is a cheap coffee shop that serves chinese food . it is located in the city centre and has a customer rating of 5 out of 5 . 
+0.5097017285839751
+the golden palace is a cheap coffee shop that serves chinese food . it is located in the riverside area and has a customer rating of 5 out of 5 . 
+0.5718854446872008
+the golden palace is a cheap coffee shop that serves chinese food . it is located in the city centre and has an average customer rating . 
+0.7766117183948958
+the golden palace is a cheap coffee shop that serves chinese food . it is located in the riverside area and has an average customer rating . 
+0.676724746246153
+the golden palace is a high priced coffee shop that serves chinese food . it is located in the city centre and has a customer rating of 1 out of 5 . 
+0.8059157115202437
+the golden palace is a high priced coffee shop that serves chinese food . it is located in riverside and has a customer rating of 1 out of 5 . 
+0.6582525140253038
+the golden palace is a high priced coffee shop that serves chinese food . it is located in the city centre and has an average customer rating . 
+0.5223361579283259
+the golden palace is a high priced coffee shop that serves chinese food . it is located in the riverside area and has an average customer rating . 
+0.7613428051596087
+the golden palace is a coffee shop that serves chinese food in the less than £20 price range . it is located in the city centre . its customer rating is low . 
+0.9433054558319106
+the golden palace is a low rated coffee shop that serves cheap chinese food . it is located in the riverside area . 
+0.508533166562589
+the golden palace is a moderately priced coffee shop that serves chinese food . it is located in the city centre and has a customer rating of 1 out of 5 . 
+0.8613313263107976
+the golden palace is a moderately priced coffee shop that serves chinese food . it is located in the riverside area and has a customer rating of 1 out of 5 . 
+0.7900077675428958
+the golden palace is a moderately priced coffee shop that serves chinese food . it is located in the city centre and has a customer rating of 3 out of 5 . 
+0.67634510811737
+the golden palace is a moderately priced coffee shop that serves chinese food . it is located in the riverside and has a customer rating of 3 out of 5 . 
+0.5683386212948147
+the golden palace is a high rated coffee shop in the city centre . it serves chinese food and costs more than £30 . 
+0.7091936905878007
+the golden palace is a high rated coffee shop that serves high priced chinese food . 
+0.3815196421669614
+the golden palace is a coffee shop that serves english food . it is located in the city centre . it has a high customer rating and is priced between £20 - £25 . 
+0.5847065326973129
+the golden palace is a high - priced coffee shop that serves high quality food . 
+0.5010471261535355
+the golden palace is a cheap coffee shop in the city centre . it has a customer rating of 5 out of 5 . 
+0.8958003929740409
+the golden palace is a cheap coffee shop that serves english food . it is located in the riverside area and has a customer rating of 5 out of 5 . 
+0.616572469109719
+the golden palace is a cheap coffee shop in the city centre . it serves english food and has an average customer rating . 
+0.5741865870062566
+the golden palace is a cheap coffee shop that serves english food . it is located in the riverside area and has an average customer rating . 
+0.6877712150576711
+the golden palace is a high priced coffee shop in the city centre . it is a high - rated , 1 out of 5 . 
+0.4783326851274275
+the golden palace is a high priced coffee shop that serves english food . it is located in the riverside area and has a customer rating of 1 out of 5 . 
+0.6319913441745562
+the golden palace is a high priced coffee shop in the city centre . it has an average customer rating and is a high - end . 
+0.5313418958394077
+the golden palace is a high priced coffee shop in the city centre . 
+0.6475445426291285
+the golden palace is a low rated coffee shop in the city centre . it serves english food and has a price range of less than £20 . 
+0.7484240532535528
+the golden palace is a low - priced coffee shop that serves breakfast . it is located in the city centre . 
+0.6243437723948494
+the golden palace is a moderately priced coffee shop in the city centre . it has a customer rating of 1 out of 5 and serves english food . 
+0.6791697099994283
+the golden palace is a moderately priced coffee shop that serves breakfast . it is located in the city centre . 
+0.4835722995348959
+the golden palace is a moderately priced coffee shop in the city centre . it has a customer rating of 3 out of 5 . 
+0.7559937635809714
+the golden palace is a moderately priced coffee shop in the riverside area . it has a customer rating of 3 out of 5 . 
+0.8159857914497894
+the golden palace is a high rated coffee shop in the city centre . it serves english food and has a price range of more than £30 . 
+0.7386099955930606
+the golden palace is a high priced coffee shop that serves high quality food . 
+0.4380575811894386
+the mill is a coffee shop that serves chinese food in the riverside area . it is near the sorrento and has a price range of £20 - 25 . 
+0.662476046492852
+the mill is a cheap coffee shop that serves chinese food . it is located in the riverside area near the sorrento . 
+0.7929106320120539
+the mill is a high priced coffee shop that serves chinese food . it is located in the city centre and is near the sorrento . 
+0.7638064891401346
+the mill is a high priced coffee shop that serves chinese food . it is located in the riverside area near the sorrento . 
+0.9198446130878026
+the mill is a coffee shop that serves chinese food in the less than £20 price range . it is located in the city centre near the sorrento . 
+0.8787624031838183
+the mill is a coffee shop that serves chinese food for less than £20 . it is located in the riverside area near the sorrento . 
+0.7638064891401346
+the mill is a moderately priced coffee shop that serves chinese food . it is located in the city centre and is near the sorrento . 
+0.5564828041879248
+the mill is a moderately priced coffee shop that serves chinese food . it is located in the riverside area near the sorrento . 
+0.9027077897451132
+the mill is a coffee shop that serves chinese food in the riverside area . it is near the sorrento and has a price range of more than £30 . 
+0.6382401024752941
+the mill is a coffee shop that serves english food . it is located in the riverside area near the sorrento . it has a price range of £20 - 25 . 
+0.6313914638916203
+the mills is a coffee shop that serves english food . it is located in the riverside area near the sorrento . it has a price range of £20 - 25 . 
+0.19568336427344604
+the mill is a coffee shop that serves english food . it is located in the riverside area near the sorrento . it has a price range of £20 - 25 . 
+0.6313914638916203
+the mill is a cheap coffee shop that serves english food . it is located in the riverside area near the sorrento . 
+0.929156442480722
+the mill is a high priced coffee shop in the city centre near the sorrento . it serves english food . 
+0.6406179367095973
+the mill is a high priced coffee shop that serves english food . it is located in the riverside area near the sorrento . 
+0.666331887238628
+the mill is a coffee shop that serves english food . it is located in the city centre near the sorrento . it has a price range of less than £20 . 
+0.5296391277518578
+the mill is a coffee shop that serves cheap food . it is located in the riverside area near the sorrento . 
+0.6141797522526763
+the mill is a moderately priced coffee shop that serves english food . it is located in the city centre near the sorrento . 
+0.809566040004753
+the mill is a moderately priced coffee shop that serves english food . it is located in the riverside area near the sorrento . 
+0.8823052550524546
+the mill is a coffee shop that serves expensive food . it is located in the riverside area near the sorrento . 
+0.5198814350687242
+the phoenix is a 1 out of 5 rated restaurant in riverside . 
+0.6238986072117501
+the phoenix is located in riverside . it has a customer rating of 3 out of 5 . 
+0.7421150876157164
+the phoenix is located in the city centre . it has a customer rating of 5 out of 5 . 
+0.6937049107407183
+the phoenix is a restaurant in the riverside area with a customer rating of 5 out of 5 . 
+0.7751936613371729
+the phoenix is located in the city centre . it has an average customer rating . 
+0.7294246829467232
+the phoenix is located in riverside . it has an average customer rating . 
+0.6389431042462724
+the phoenix is a high rated restaurant in the riverside area . 
+0.5382218220688944
+the phoenix is located in the city centre . it has a low customer rating . 
+0.8149915117073745
+the phoenix is a low rated restaurant in the riverside area . 
+0.6360188027707555
+the punter is a kid friendly restaurant in riverside . it has a customer rating of 1 out of 5 . 
+0.9601845894041878
+the punter is a kid friendly restaurant in riverside . it has a customer rating of 3 out of 5 . 
+0.9725766308764144
+the punter is a restaurant in the city centre . it is not family - friendly and has a customer rating of 5 out of 5 . 
+0.6649937132891207
+the punter is a family - friendly restaurant in the city centre . it has a customer rating of 5 out of 5 . 
+0.7422670372043646
+the punter is a restaurant in the riverside area . it has a customer rating of 5 out of 5 and is not family - friendly . 
+0.5988059642324198
+the punter is a family friendly restaurant with a customer rating of 5 out of 5 . it is located in the riverside area . 
+0.9671682101338347
+the punter is an average rated restaurant in the city centre . it is not family - friendly . 
+0.6892906579253076
+the punter is a family - friendly restaurant in the city centre . it has an average customer rating . 
+0.6759553760156165
+the punter is an average rated restaurant in the riverside area . it is not family - friendly . 
+0.4637015624246032
+the punter is a family friendly restaurant located in the riverside area . it has an average customer rating . 
+0.713027926413322
+the punter is a high rated kid friendly restaurant in the riverside area . 
+0.6985342056580097
+the punter is a restaurant in the city centre . it is not family - friendly and has a low customer rating . 
+0.8183158121693668
+the punter is a family - friendly restaurant in the city centre . it has a low customer rating . 
+1.0
+the punter is a low rated restaurant in the riverside area . it is not family - friendly . 
+0.748406329216425
+the punter is a family friendly restaurant with a low customer rating . it is located in the riverside area . 
+0.8149574664867681
+the punter is a coffee shop that serves chinese food . it is located near café sicilia . it is not kid friendly and has a high customer rating and a price range of £20 - 25 . 
+0.404638173612364
+the punter is a coffee shop that serves chinese food . it is near café sicilia . it is kid friendly and has a high customer rating and a price range of £20 - 25 . 
+0.628622291663189
+the punter is a cheap coffee shop that serves chinese food . it is located near café sicilia . it is not family friendly and has a customer rating of 5 out of 5 . 
+0.47655047010126034
+the punter is a cheap coffee shop that serves chinese food . it is near café sicilia . it is family friendly and has a customer rating of 5 out of 5 . 
+0.8292634507372725
+the punter is a cheap coffee shop that serves chinese food . it is near café sicilia . it is not family friendly and has an average customer rating . 
+0.7883731171227822
+the punter is a cheap , family friendly coffee shop serving chinese food . it is near café sicilia and has an average customer rating . 
+0.461613254411796
+the punter is a high priced coffee shop that serves chinese food . it is located near café sicilia and is not child friendly and has a customer rating of 1 out of 5 . 
+0.5676765295434832
+the punter is a high priced coffee shop that serves chinese food . it is near café sicilia and has a customer rating of 1 out of 5 and is child friendly . 
+0.5683789934223147
+the punter is a high priced coffee shop serving chinese food . it is located near café sicilia . it is not child friendly and has an average customer rating . 
+0.5327032488757766
+the punter is a high priced , average rated coffee shop that serves chinese food . it is located near café sicilia and is family friendly . 
+0.46051022800091057
+the punter is a coffee shop that serves chinese food for less than £20 . it is near café sicilia . it has a low customer rating and is not family friendly . 
+0.7753684710588117
+the punter is a family friendly coffee shop that serves chinese food . it is located near café sicilia . its customer rating is low and the price range is less than £20 . 
+0.7155696432986561
+the punter is a moderately priced coffee shop that serves chinese food . it is located near café sicilia and has a customer rating of 1 out of 5 and is not kid friendly . 
+0.8167148080168147
+the punter is a moderately priced coffee shop that serves chinese food . it is near café sicilia and has a customer rating of 1 out of 5 and is kid friendly . 
+0.7023319856423895
+the punter is a moderately priced coffee shop that serves chinese food . it is located near café sicilia and has a customer rating of 3 out of 5 and is not kid friendly . 
+0.7198525718309277
+the punter is a moderately priced , kid friendly coffee shop serving chinese food . it is located near café sicilia and has a customer rating of 3 out of 5 . 
+0.5770590457581719
+the punter is a coffee shop that serves chinese food . it is located near café sicilia . it is not child friendly and has a high customer rating and a price range of more than £30 . 
+0.6020415181878701
+the punter is a high rated coffee shop that serves chinese food . it is located near café sicilia and is child friendly and has a price range of more than £30 . 
+0.24273541657686623
+the punter is a coffee shop that serves english food . it is located near café sicilia . it is not kid friendly and has a high customer rating . 
+0.5764456443591871
+the punter is a family friendly coffee shop that serves english food . it is located near café sicilia . 
+0.8034284189446518
+the punter is a cheap coffee shop serving english food . it is located near café sicilia and has a customer rating of 5 out of 5 . it is not family - friendly . 
+0.7883286497792379
+the punter is a family friendly coffee shop near café sicilia . it serves cheap english food and has a customer rating of 5 out of 5 . 
+0.8538966047864073
+the punter is a cheap coffee shop serving english food . it is located near café sicilia and has an average customer rating . it is not family - friendly . 
+0.5858122282419852
+the punter is a family friendly coffee shop near café sicilia . it serves cheap english food and has an average customer rating . 
+0.8219877886514958
+the punter is a high priced coffee shop that serves english food . it is located near café sicilia and is not family - friendly . 
+0.35976387504290475
+the punter is a family friendly coffee shop near café sicilia . it serves expensive english food and has a customer rating of 1 out of 5 . 
+0.6611787960649815
+the punter is a high priced coffee shop serving english food . it is located near café sicilia and has an average customer rating . it is not child friendly . 
+0.7552514098759058
+the punter is a family friendly coffee shop near café sicilia . it serves expensive english food and has an average customer rating . 
+0.3728312126534771
+the punter is a low rated coffee shop that serves english food . it is located near café sicilia . it is not family - friendly and has a price range of less than £20 . 
+0.7260405281101855
+the punter is a family friendly coffee shop near café sicilia . it serves english food and has a low customer rating and a price range of less than £20 . 
+0.8123496892324695
+the punter is a coffee shop that serves moderately priced english food . it is located near café sicilia and is not family - friendly . 
+0.4418043069308638
+the punter is a moderately priced coffee shop that serves english food . it is located near café sicilia . 
+0.5737074989070577
+the punter is a moderately priced coffee shop that serves english food . it is located near café sicilia and has a customer rating of 3 out of 5 . it is not kid friendly . 
+0.575684321338675
+the punter is a moderately priced coffee shop that serves english food . it is located near café sicilia . it is kid friendly and has a customer rating of 3 out of 5 . 
+0.816360100090376
+the wrestlers is a kid friendly restaurant with a customer rating of 1 out of 5 . 
+0.8653642791599412
+the wrestlers is a kid friendly restaurant near the sorrento with a customer rating of 1 out of 5 . 
+1.0
+the wrestlers is a kid friendly restaurant with a customer rating of 3 out of 5 . 
+1.0
+the wrestlers is a kid friendly restaurant near the sorrento with a customer rating of 3 out of 5 . 
+0.9017135878481766
+the wrestlers is not family - friendly and has a customer rating of 5 out of 5 . 
+0.9526201829549016
+the wrestlers is a restaurant near the sorrento . it has a customer rating of 5 out of 5 and is not family - friendly . 
+0.8020829798010126
+the wrestlers is a family friendly restaurant with a customer rating of 5 out of 5 . 
+1.0
+the wrestlers is a family friendly restaurant near the sorrento with a customer rating of 5 out of 5 . 
+1.0
+the wrestlers is not family - friendly and has an average customer rating . 
+0.9365137582048805
+the wrestlers is an average rated non - family - friendly restaurant near the sorrento . 
+0.5419642316694009
+the wrestlers is a family friendly place with an average customer rating . 
+0.8364509921576047
+the wrestlers is a family friendly restaurant near the sorrento with an average customer rating . 
+0.7916963878457502
+the wrestlers is a highly rated kid friendly restaurant . 
+0.7186082239261684
+the wrestlers is a highly rated , kid friendly restaurant near the sorrento . 
+0.7380411773078261
+the wrestlers is not family - friendly and has a low customer rating . 
+0.6475445426291285
+the wrestlers is a restaurant near the sorrento . it is not family - friendly and has a low customer rating . 
+0.7226568811456053
+the wrestlers is a family friendly restaurant with a low customer rating . 
+0.8364509921576047
+the wrestlers is a family friendly restaurant near the sorrento with a low customer rating . 
+0.8332857102035374
+the wrestlers is a kid friendly coffee shop that serves chinese food in the £20 - 25 price range . it is located in the riverside area near raja indian cuisine . 
+0.6644509814575437
+the wrestlers is a cheap coffee shop that serves chinese food . it is located in the riverside area near raja indian cuisine . it is family friendly . 
+0.7677181100451669
+the wrestlers is a high priced coffee shop that serves chinese food . it is located in the city centre near raja indian cuisine . it is not child friendly . 
+0.5724670430040623
+the wrestlers is a high priced coffee shop that serves chinese food . it is located in the city centre near raja indian cuisine . it is child friendly . 
+0.703768476312465
+the wrestlers is a high priced coffee shop that serves chinese food . it is located in the riverside area near raja indian cuisine . it is not child friendly . 
+0.6297283298822326
+the wrestlers is a high priced coffee shop that serves chinese food . it is located in the riverside area near raja indian cuisine . it is child friendly . 
+0.7761536553266204
+the wrestlers is a coffee shop that serves chinese food in the less than £20 price range . it is located in the city centre near raja indian cuisine . it is not family friendly . 
+0.7389033859172868
+the wrestlers is a family friendly coffee shop that serves cheap chinese food . it is located in the city centre near raja indian cuisine . 
+0.8335332613736267
+the wrestlers is a coffee shop that serves chinese food for less than £20 . it is located in the riverside area near raja indian cuisine . it is not family friendly . 
+0.8141687024690009
+the wrestlers is a family friendly coffee shop that serves cheap chinese food . it is located in the riverside area near raja indian cuisine . 
+0.8265168183793801
+the wrestlers is a coffee shop that serves chinese food in the moderate price range . it is located in the city centre . it is near raja indian cuisine . it is not family friendly . 
+0.7951764409322364
+the wrestlers is a moderately priced coffee shop that serves chinese food . it is located in the city centre and is near raja indian cuisine . 
+0.69707435607959
+the wrestlers is a moderately priced coffee shop that serves chinese food . it is located in the riverside area near raja indian cuisine . it is not family friendly . 
+0.5633744897929833
+the wrestlers is a moderately priced coffee shop that serves chinese food . it is located in the riverside area and is near raja indian cuisine . 
+0.7754703415973576
+the wrestlers is a child friendly coffee shop that serves chinese food in the riverside area . it is near raja indian cuisine and has a price range of more than £30 . 
+0.6471082096574678
+the wrestlers is a kid friendly coffee shop that serves english food . it is located in the riverside area near raja indian cuisine . it has a price range of £20 - 25 . 
+0.5705032296671596
+the wrestlers is a family friendly coffee shop that serves cheap english food . it is located in the riverside area near raja indian cuisine . 
+0.805122612691272
+the wrestlers is a high priced coffee shop that serves english food . it is located in the city centre near raja indian cuisine . it is not child friendly . 
+0.7670800490246407
+the wrestlers is a high priced coffee shop that serves english food . it is located in the city centre near raja indian cuisine . it is child friendly . 
+0.7135593780609962
+the wrestlers is a high priced coffee shop that serves english food . it is located in the riverside area near raja indian cuisine . it is not child friendly . 
+0.39267803395261075
+the wrestlers is a high priced coffee shop that serves english food . it is located in the riverside area near raja indian cuisine . it is child friendly . 
+0.8831667902870385
+the wrestlers is a coffee shop that serves english food . it is not family - friendly and has a price range of less than £20 . it is located in the city centre near raja indian cuisine . 
+0.4990700645269134
+the wrestlers is a family - friendly coffee shop that serves english food . it is located in the city centre near raja indian cuisine . it has a price range of less than £20 . 
+0.6458971107746264
+the wrestlers is a coffee shop that serves english food . it is located in the riverside area near raja indian cuisine . it is not family - friendly and has a price range of less than £20 . 
+0.642393274497298
+the wrestlers is a family friendly coffee shop that serves cheap food . it is located near raja indian cuisine . 
+0.6698732765425971
+the wrestlers is a coffee shop that serves english food . it is located in the city centre near raja indian cuisine . it is not kid friendly and has a moderate price range . 
+0.5953516448151558
+the wrestlers is a moderately priced coffee shop that serves english food . it is located in the city centre near raja indian cuisine . it is kid friendly . 
+0.6084506270348037
+the wrestlers is a moderately priced coffee shop that serves english food . it is located in the riverside area near raja indian cuisine . it is not family - friendly . 
+0.6645334042069373
+the wrestlers is a moderately priced coffee shop that serves english food . it is located in the riverside area near raja indian cuisine . it is kid friendly . 
+0.8618476389178121
+the wrestlers is a family friendly coffee shop that serves expensive english food . it is located in the riverside area near raja indian cuisine . 
+0.4095743085416276
+travellers rest beefeater is a 1 out of 5 rated restaurant near raja indian cuisine in riverside . 
+0.7707713836060629
+travellers rest beefeater is a restaurant near raja indian cuisine in the riverside area with a customer rating of 3 out of 5 . 
+0.8009559340799308
+travellers rest beefeater is a restaurant in the city centre near raja indian cuisine with a customer rating of 5 out of 5 . 
+0.7744265216926718
+travellers rest beefeater is a restaurant in the riverside area near raja indian cuisine with a customer rating of 5 out of 5 . 
+0.7744265216926718
+travellers rest beefeater is located in the city centre near raja indian cuisine . it has an average customer rating . 
+1.0
+travellers rest beefeater is located near raja indian cuisine in riverside . it has an average customer rating . 
+0.7757929610977135
+travellers rest beefeaters is located near raja indian cuisine in riverside . it has an average customer rating . 
+0.2861377990953152
+travellers rest beefeater is located near raja indian cuisine in riverside . it has an average customer rating . 
+0.7757929610977135
+travellers rest beefeater is a high rated restaurant near raja indian cuisine in the riverside area . 
+0.7000700175052517
+travellers rest beefeaters is a high rated restaurant near raja indian cuisine in the riverside area . 
+0.30928520903947526
+travellers rest beefeater is a high rated restaurant near raja indian cuisine in the riverside area . 
+0.7000700175052517
+travellers rest beefeater is a restaurant in the city centre near raja indian cuisine with a low customer rating . 
+0.7770179656407357
+travellers rest beefeater is a low rated restaurant near raja indian cuisine . 
+0.5449361903686935
+travellers rest beefeaters is a low rated restaurant near raja indian cuisine . 
+0.2426909288254803
+travellers rest beefeater is a low rated restaurant near raja indian cuisine . 
+0.5449361903686935
+wildwood is a coffee shop that serves chinese food . it is located near ranch . its customer rating is high and the price range is £20 - 25 . 
+0.9009881434168618
+wildwood is a cheap coffee shop that serves chinese food . it is located near ranch and has a customer rating of 5 out of 5 . 
+0.49360865172370694
+wildwood is a cheap coffee shop that serves chinese food . it is near ranch and has an average customer rating . 
+0.8699353244145621
+wildwood is a high priced coffee shop that serves chinese food . it is located near ranch and has a customer rating of 1 out of 5 . 
+0.8026916658370444
+wildwood is a high priced coffee shop that serves chinese food . it is located near ranch and has an average customer rating . 
+0.6175493605271469
+wildwood is a low rated coffee shop that serves chinese food for less than £20 . it is located near ranch . 
+0.27063020157920825
+wildwood is a moderately priced coffee shop that serves chinese food . it is located near ranch and has a customer rating of 1 out of 5 . 
+0.6544123592766986
+wildwood is a moderately priced coffee shop that serves chinese food . it is located near ranch and has a customer rating of 3 out of 5 . 
+0.8951710749059538
+wildwood is a high rated coffee shop that serves chinese food . it is located near ranch and has a price range of more than £30 . 
+0.47840239768267434
+wildwood is a coffee shop that serves english food . it is located near ranch . it has a high customer rating and is priced between £20 - £25 . 
+0.45493229037309335
+wildwood is a cheap coffee shop that serves english food . it is located near ranch and has a customer rating of 5 out of 5 . 
+0.8666415730847504
+wildwood is a cheap coffee shop serving english food . it is located near ranch and has an average customer rating . 
+0.6869788233448462
+wildwood is a high priced coffee shop near ranch . it has a customer rating of 1 out of 5 . 
+0.6659267134075147
+wildwood is a high priced coffee shop near ranch . it serves english food and has an average customer rating . 
+0.588934620997652
+wildwood is a low rated coffee shop near ranch . it serves english food and has a price range of less than £20 . 
+0.44476301781818156
+wildwood is a moderately priced coffee shop that serves english food . it is located near ranch and has a customer rating of 1 out of 5 . 
+0.7532851335428472
+wildwood is a moderately priced coffee shop near ranch . it has a customer rating of 3 out of 5 . 
+0.9133997866119974
+valid bleu score is 0.7196507319735365
+
+Process finished with exit code 0
