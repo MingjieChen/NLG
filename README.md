@@ -9,4 +9,6 @@ download processed data and model weights, put them in the directory
 
 dagger.py restore model then evaluate dev data one by one as the same order in the dev data. 
 
+result.txt is the model's dev data evaluation. baseline_result.txt is the official baseline generation.
+
 
