@@ -2,7 +2,7 @@
 NLG for E2E dataset 
 
 ### requirment ###
-- tensorflow==1.0
+- [tensorflow==1.0](https://github.com/tensorflow/tensorflow/tree/r1.0)
 - pickle
 
 
