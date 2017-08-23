@@ -2,8 +2,8 @@
 NLG for E2E dataset 
 
 ###requirment###
-*tensorflow==1.0
-*pickle
+- tensorflow==1.0
+- pickle
 
 
 processed data https://www.dropbox.com/s/6fdr5tjmbsios2e/raw_data.pickle?dl=0
