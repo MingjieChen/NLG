@@ -16,4 +16,4 @@ dagger.py restore model then evaluate dev data one by one as the same order in t
 
 result.txt is the model's dev data evaluation. baseline_result.txt is the official baseline generation.
 
-![result is 67.7](https://superthierry.github.com/NLG/result.png)
+![result is 67.7](https://github.com/superthierry/NLG/blob/master/result.png)
