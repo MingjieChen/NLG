@@ -14,6 +14,6 @@ download processed data and model weights, unzip the zip file, put them in the d
 
 **dagger.py restore model then evaluate dev data one by one as the same order in the dev data.**
 
-##__compare.txt is comparison between model output and task baseline, combined with mr and milti refs__
+##__compare.txt is comparison between model output and task baseline, combined with mr and milti refs__##
 
 ![result is 67.7](https://github.com/superthierry/NLG/blob/master/result.png)
