@@ -15,7 +15,7 @@ NLG for E2E dataset
 - **ROUGE-L**：0.7318
 - **CIDEr**: 2.3468
 
-### Official Baseline###
+### Official Baseline ###
 - **Bleu**: 0.6986
 - **NIST**: 8.5649
 - **METEOR**：0.4706
