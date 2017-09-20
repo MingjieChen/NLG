@@ -1,12 +1,12 @@
-# NLG
-NLG for [E2E dataset](http://www.macs.hw.ac.uk/InteractionLab/E2E/) 
-![### Dataset Example ###](https://github.com/superthierry/NLG/blob/CNN_Encoder/example.png)
 ## Natural Language Generation using CNN as the encoder ##
+
+NLG for [E2E dataset](http://www.macs.hw.ac.uk/InteractionLab/E2E/) 
+
+### Dataset Example ###
+![### Dataset Example ###](https://github.com/superthierry/NLG/blob/CNN_Encoder/example.png)
+
 ### requirement ###
 - [tensorflow==1.0](https://github.com/tensorflow/tensorflow/tree/r1.0)
-- pickle
-
-
 - [processed data](https://www.dropbox.com/s/6fdr5tjmbsios2e/raw_data.pickle?dl=0)
 
 ### Model Result ###
