@@ -1,5 +1,6 @@
 # NLG
-NLG for E2E dataset 
+NLG for [E2E dataset](http://www.macs.hw.ac.uk/InteractionLab/E2E/) 
+### Dataset Example ###
 ## Natural Language Generation using CNN as the encoder ##
 ### requirement ###
 - [tensorflow==1.0](https://github.com/tensorflow/tensorflow/tree/r1.0)
