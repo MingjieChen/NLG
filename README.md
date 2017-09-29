@@ -23,7 +23,7 @@ NLG for [E2E dataset](http://www.macs.hw.ac.uk/InteractionLab/E2E/)
 - **ROUGE-L**：0.7279
 - **CIDEr**: 2.3934
 
-## attention meomry cell could improve BLEU to 71.92, however, decrease other metrics scores. Still need some more experiments ##
+## attention meomry cell could improve BLEU to 72.21, however, decrease other metrics scores. Still need some more experiments ##
 
 
 
